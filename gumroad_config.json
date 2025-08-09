@@ -1,0 +1,9 @@
+{
+  "base_price": 5.0,
+  "currency": "eur",
+  "enable_pay_what_you_want": true,
+  "min_price": 3.0,
+  "note": "Configuración limpia - Solo datos esenciales",
+  "configured": true,
+  "access_token": "diVr7c6UxDCIlg8u2gwY17Ry-8kb-BdRrkbwG6u2E2w"
+}

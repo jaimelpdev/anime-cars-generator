@@ -1,0 +1,3077 @@
+============================================================
+🚗 GENERADOR DE ANIME CARS - INICIANDO
+============================================================
+📅 Fecha: 2025-08-08 19:58:05
+📂 Trabajando en: C:\Users\Jaume\Desktop\project\prompt
+📝 Sistema de logging activado
+🔄 Verificando conexión con Stable Diffusion API...
+✅ API de Stable Diffusion disponible
+🔍 Verificando modelos disponibles...
+✅ 1 modelo(s) encontrado(s):
+   - revAnimated_v2Rebirth.safetensors [8463ca6405]
+🎉 WebUI completamente configurado y listo
+
+🛒 Verificando configuración de Gumroad...
+📋 Configuración de Gumroad encontrada
+✅ Configuración de Gumroad cargada correctamente
+✅ Token válido - Usuario: Jaime López
+✅ Gumroad configurado correctamente
+
+🏥 Verificando salud del WebUI antes de generar...
+🏥 Verificando salud del WebUI...
+🔍 Obteniendo información del WebUI...
+📋 Samplers disponibles: 20
+   Primer sampler: DPM++ 2M
+🎯 Modelo actual: revAnimated_v2Rebirth.safetensors [8463ca6405]
+🔧 Scripts disponibles: 8
+💾 Memoria: {'ram': {'free': 32374181888.000004, 'used': 1755136000, 'total': 34129317888.000004}, 'cuda': {'system': {'free': 5058330624, 'used': 3530948608, 'total': 8589279232}, 'active': {'current': 2190160896, 'peak': 4182322176}, 'allocated': {'current': 2190160896, 'peak': 4182322176}, 'reserved': {'current': 2445279232, 'peak': 4385144832}, 'inactive': {'current': 255118336, 'peak': 899535360}, 'events': {'retries': 0, 'oom': 0}}}
+✅ Configuración del WebUI accesible
+🧪 Probando diferentes configuraciones...
+🧪 Probando: Mínimo absoluto
+✅ Mínimo absoluto - FUNCIONA!
+✅ Encontrada configuración que funciona!
+✅ WebUI funcionando con configuración optimizada
+✅ Cargados 58 prompts del día actual desde prompts.txt
+
+🛒 Configurando Gumroad para venta automática...
+📋 Configuración de Gumroad encontrada
+✅ Configuración de Gumroad cargada correctamente
+
+🎯 Configuración:
+   - Packs a generar: 10
+   - Imágenes por pack: 8
+   - Prompts disponibles: 58
+   - Prompts únicos generados para: 2025-08-08
+   - Regeneración automática: ✅ Diaria
+   - WebUI Auto-start: ✅ Activado
+   - WebUI Path: F:\StableDiffusion\stable-diffusion-webui\webui-user.bat
+   - Venta en Gumroad: ✅ Habilitada
+   - Crear previews: ✅ Sí
+   - Precio base: €5.00 eur
+   - Auto-publicar: ❌ No
+
+📦 PACK 1/10
+----------------------------------------
+🎯 Usando configuración optimizada: 64x64, 5 pasos
+📦 Creando Anime_Cars_Pack_01_20250808...
+🎯 Usando configuración optimizada: 64x64
+🔄 Imagen 1/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: anime sports car convertible in shoujo style, anim...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 2/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: slice of life anime supercar with tribal livery de...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 3/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: shounen style rally car with tribal stripe designs...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 4/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: manga style roadster with glowing LED rims, drivin...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 5/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: fantasy anime street racing car with racing stripe...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 6/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: vibrant colors mecha anime style street racer car,...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 7/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: energetic racing scene mecha anime style concept c...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 8/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: peaceful parked scene moe style convertible car, b...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+✅ Pack completado: 8/8 imágenes
+📁 Pack guardado en carpeta: packs\Anime_Cars_Pack_01_20250808
+ℹ️  Sin archivo ZIP - usando solo carpeta con imágenes
+🖼️ Creando preview con watermark...
+✅ Preview creado: previews\Anime_Cars_Pack_01_20250808_preview.png
+✅ Preview creado: Anime_Cars_Pack_01_20250808_preview.png
+ℹ️  Subida a PixelDrain omitida - sin archivo ZIP
+🛒 Preparando información para Gumroad...
+
+📋 Revisando productos existentes en Gumroad:
+✅ Token válido - Usuario: Jaime López
+📋 Productos existentes en Gumroad: 2
+   1. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/nyfpb
+   2. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/yqcfy
+ℹ️  Subida a Gumroad omitida - funcionaba con archivos ZIP
+❌ Error preparando información para Gumroad
+⏳ Pausa de 15 segundos...
+
+📦 PACK 2/10
+----------------------------------------
+🎯 Usando configuración optimizada: 64x64, 5 pasos
+📦 Creando Anime_Cars_Pack_02_20250808...
+🎯 Usando configuración optimizada: 64x64
+🔄 Imagen 1/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: anime sports car convertible in shoujo style, anim...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 2/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: slice of life anime supercar with tribal livery de...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 3/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: shounen style rally car with tribal stripe designs...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 4/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: manga style roadster with glowing LED rims, drivin...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 5/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: fantasy anime street racing car with racing stripe...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 6/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: vibrant colors mecha anime style street racer car,...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 7/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: energetic racing scene mecha anime style concept c...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 8/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: peaceful parked scene moe style convertible car, b...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+✅ Pack completado: 8/8 imágenes
+📁 Pack guardado en carpeta: packs\Anime_Cars_Pack_02_20250808
+ℹ️  Sin archivo ZIP - usando solo carpeta con imágenes
+🖼️ Creando preview con watermark...
+✅ Preview creado: previews\Anime_Cars_Pack_02_20250808_preview.png
+✅ Preview creado: Anime_Cars_Pack_02_20250808_preview.png
+ℹ️  Subida a PixelDrain omitida - sin archivo ZIP
+🛒 Preparando información para Gumroad...
+
+📋 Revisando productos existentes en Gumroad:
+✅ Token válido - Usuario: Jaime López
+📋 Productos existentes en Gumroad: 2
+   1. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/nyfpb
+   2. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/yqcfy
+ℹ️  Subida a Gumroad omitida - funcionaba con archivos ZIP
+❌ Error preparando información para Gumroad
+⏳ Pausa de 15 segundos...
+
+📦 PACK 3/10
+----------------------------------------
+🎯 Usando configuración optimizada: 64x64, 5 pasos
+📦 Creando Anime_Cars_Pack_03_20250808...
+🎯 Usando configuración optimizada: 64x64
+🔄 Imagen 1/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: anime sports car convertible in shoujo style, anim...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 2/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: slice of life anime supercar with tribal livery de...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 3/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: shounen style rally car with tribal stripe designs...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 4/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: manga style roadster with glowing LED rims, drivin...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 5/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: fantasy anime street racing car with racing stripe...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 6/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: vibrant colors mecha anime style street racer car,...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 7/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: energetic racing scene mecha anime style concept c...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 8/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: peaceful parked scene moe style convertible car, b...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+✅ Pack completado: 8/8 imágenes
+📁 Pack guardado en carpeta: packs\Anime_Cars_Pack_03_20250808
+ℹ️  Sin archivo ZIP - usando solo carpeta con imágenes
+🖼️ Creando preview con watermark...
+✅ Preview creado: previews\Anime_Cars_Pack_03_20250808_preview.png
+✅ Preview creado: Anime_Cars_Pack_03_20250808_preview.png
+ℹ️  Subida a PixelDrain omitida - sin archivo ZIP
+🛒 Preparando información para Gumroad...
+
+📋 Revisando productos existentes en Gumroad:
+✅ Token válido - Usuario: Jaime López
+📋 Productos existentes en Gumroad: 2
+   1. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/nyfpb
+   2. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/yqcfy
+ℹ️  Subida a Gumroad omitida - funcionaba con archivos ZIP
+❌ Error preparando información para Gumroad
+⏳ Pausa de 15 segundos...
+
+📦 PACK 4/10
+----------------------------------------
+🎯 Usando configuración optimizada: 64x64, 5 pasos
+📦 Creando Anime_Cars_Pack_04_20250808...
+🎯 Usando configuración optimizada: 64x64
+🔄 Imagen 1/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: anime sports car convertible in shoujo style, anim...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 2/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: slice of life anime supercar with tribal livery de...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 3/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: shounen style rally car with tribal stripe designs...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 4/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: manga style roadster with glowing LED rims, drivin...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 5/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: fantasy anime street racing car with racing stripe...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 6/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: vibrant colors mecha anime style street racer car,...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 7/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: energetic racing scene mecha anime style concept c...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 8/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: peaceful parked scene moe style convertible car, b...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+✅ Pack completado: 8/8 imágenes
+📁 Pack guardado en carpeta: packs\Anime_Cars_Pack_04_20250808
+ℹ️  Sin archivo ZIP - usando solo carpeta con imágenes
+🖼️ Creando preview con watermark...
+✅ Preview creado: previews\Anime_Cars_Pack_04_20250808_preview.png
+✅ Preview creado: Anime_Cars_Pack_04_20250808_preview.png
+ℹ️  Subida a PixelDrain omitida - sin archivo ZIP
+🛒 Preparando información para Gumroad...
+
+📋 Revisando productos existentes en Gumroad:
+✅ Token válido - Usuario: Jaime López
+📋 Productos existentes en Gumroad: 2
+   1. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/nyfpb
+   2. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/yqcfy
+ℹ️  Subida a Gumroad omitida - funcionaba con archivos ZIP
+❌ Error preparando información para Gumroad
+⏳ Pausa de 15 segundos...
+
+📦 PACK 5/10
+----------------------------------------
+🎯 Usando configuración optimizada: 64x64, 5 pasos
+📦 Creando Anime_Cars_Pack_05_20250808...
+🎯 Usando configuración optimizada: 64x64
+🔄 Imagen 1/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: anime sports car convertible in shoujo style, anim...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 2/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: slice of life anime supercar with tribal livery de...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 3/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: shounen style rally car with tribal stripe designs...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 4/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: manga style roadster with glowing LED rims, drivin...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 5/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: fantasy anime street racing car with racing stripe...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 6/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: vibrant colors mecha anime style street racer car,...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 7/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: energetic racing scene mecha anime style concept c...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 8/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: peaceful parked scene moe style convertible car, b...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+✅ Pack completado: 8/8 imágenes
+📁 Pack guardado en carpeta: packs\Anime_Cars_Pack_05_20250808
+ℹ️  Sin archivo ZIP - usando solo carpeta con imágenes
+🖼️ Creando preview con watermark...
+✅ Preview creado: previews\Anime_Cars_Pack_05_20250808_preview.png
+✅ Preview creado: Anime_Cars_Pack_05_20250808_preview.png
+ℹ️  Subida a PixelDrain omitida - sin archivo ZIP
+🛒 Preparando información para Gumroad...
+
+📋 Revisando productos existentes en Gumroad:
+✅ Token válido - Usuario: Jaime López
+📋 Productos existentes en Gumroad: 2
+   1. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/nyfpb
+   2. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/yqcfy
+ℹ️  Subida a Gumroad omitida - funcionaba con archivos ZIP
+❌ Error preparando información para Gumroad
+⏳ Pausa de 15 segundos...
+
+📦 PACK 6/10
+----------------------------------------
+🎯 Usando configuración optimizada: 64x64, 5 pasos
+📦 Creando Anime_Cars_Pack_06_20250808...
+🎯 Usando configuración optimizada: 64x64
+🔄 Imagen 1/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: anime sports car convertible in shoujo style, anim...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 2/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: slice of life anime supercar with tribal livery de...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 3/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: shounen style rally car with tribal stripe designs...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 4/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: manga style roadster with glowing LED rims, drivin...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 5/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: fantasy anime street racing car with racing stripe...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 6/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: vibrant colors mecha anime style street racer car,...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 7/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: energetic racing scene mecha anime style concept c...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 8/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: peaceful parked scene moe style convertible car, b...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+✅ Pack completado: 8/8 imágenes
+📁 Pack guardado en carpeta: packs\Anime_Cars_Pack_06_20250808
+ℹ️  Sin archivo ZIP - usando solo carpeta con imágenes
+🖼️ Creando preview con watermark...
+✅ Preview creado: previews\Anime_Cars_Pack_06_20250808_preview.png
+✅ Preview creado: Anime_Cars_Pack_06_20250808_preview.png
+ℹ️  Subida a PixelDrain omitida - sin archivo ZIP
+🛒 Preparando información para Gumroad...
+
+📋 Revisando productos existentes en Gumroad:
+✅ Token válido - Usuario: Jaime López
+📋 Productos existentes en Gumroad: 2
+   1. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/nyfpb
+   2. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/yqcfy
+ℹ️  Subida a Gumroad omitida - funcionaba con archivos ZIP
+❌ Error preparando información para Gumroad
+⏳ Pausa de 15 segundos...
+
+📦 PACK 7/10
+----------------------------------------
+🎯 Usando configuración optimizada: 64x64, 5 pasos
+📦 Creando Anime_Cars_Pack_07_20250808...
+🎯 Usando configuración optimizada: 64x64
+🔄 Imagen 1/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: anime sports car convertible in shoujo style, anim...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 2/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: slice of life anime supercar with tribal livery de...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 3/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: shounen style rally car with tribal stripe designs...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 4/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: manga style roadster with glowing LED rims, drivin...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 5/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: fantasy anime street racing car with racing stripe...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 6/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: vibrant colors mecha anime style street racer car,...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 7/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: energetic racing scene mecha anime style concept c...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 8/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: peaceful parked scene moe style convertible car, b...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+✅ Pack completado: 8/8 imágenes
+📁 Pack guardado en carpeta: packs\Anime_Cars_Pack_07_20250808
+ℹ️  Sin archivo ZIP - usando solo carpeta con imágenes
+🖼️ Creando preview con watermark...
+✅ Preview creado: previews\Anime_Cars_Pack_07_20250808_preview.png
+✅ Preview creado: Anime_Cars_Pack_07_20250808_preview.png
+ℹ️  Subida a PixelDrain omitida - sin archivo ZIP
+🛒 Preparando información para Gumroad...
+
+📋 Revisando productos existentes en Gumroad:
+✅ Token válido - Usuario: Jaime López
+📋 Productos existentes en Gumroad: 2
+   1. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/nyfpb
+   2. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/yqcfy
+ℹ️  Subida a Gumroad omitida - funcionaba con archivos ZIP
+❌ Error preparando información para Gumroad
+⏳ Pausa de 15 segundos...
+
+📦 PACK 8/10
+----------------------------------------
+🎯 Usando configuración optimizada: 64x64, 5 pasos
+📦 Creando Anime_Cars_Pack_08_20250808...
+🎯 Usando configuración optimizada: 64x64
+🔄 Imagen 1/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: anime sports car convertible in shoujo style, anim...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 2/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: slice of life anime supercar with tribal livery de...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 3/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: shounen style rally car with tribal stripe designs...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 4/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: manga style roadster with glowing LED rims, drivin...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 5/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: fantasy anime street racing car with racing stripe...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 6/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: vibrant colors mecha anime style street racer car,...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 7/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: energetic racing scene mecha anime style concept c...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 8/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: peaceful parked scene moe style convertible car, b...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+✅ Pack completado: 8/8 imágenes
+📁 Pack guardado en carpeta: packs\Anime_Cars_Pack_08_20250808
+ℹ️  Sin archivo ZIP - usando solo carpeta con imágenes
+🖼️ Creando preview con watermark...
+✅ Preview creado: previews\Anime_Cars_Pack_08_20250808_preview.png
+✅ Preview creado: Anime_Cars_Pack_08_20250808_preview.png
+ℹ️  Subida a PixelDrain omitida - sin archivo ZIP
+🛒 Preparando información para Gumroad...
+
+📋 Revisando productos existentes en Gumroad:
+✅ Token válido - Usuario: Jaime López
+📋 Productos existentes en Gumroad: 2
+   1. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/nyfpb
+   2. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/yqcfy
+ℹ️  Subida a Gumroad omitida - funcionaba con archivos ZIP
+❌ Error preparando información para Gumroad
+⏳ Pausa de 15 segundos...
+
+📦 PACK 9/10
+----------------------------------------
+🎯 Usando configuración optimizada: 64x64, 5 pasos
+📦 Creando Anime_Cars_Pack_09_20250808...
+🎯 Usando configuración optimizada: 64x64
+🔄 Imagen 1/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: anime sports car convertible in shoujo style, anim...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 2/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: slice of life anime supercar with tribal livery de...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 3/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: shounen style rally car with tribal stripe designs...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 4/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: manga style roadster with glowing LED rims, drivin...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 5/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: fantasy anime street racing car with racing stripe...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 6/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: vibrant colors mecha anime style street racer car,...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 7/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: energetic racing scene mecha anime style concept c...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 8/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: peaceful parked scene moe style convertible car, b...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+✅ Pack completado: 8/8 imágenes
+📁 Pack guardado en carpeta: packs\Anime_Cars_Pack_09_20250808
+ℹ️  Sin archivo ZIP - usando solo carpeta con imágenes
+🖼️ Creando preview con watermark...
+✅ Preview creado: previews\Anime_Cars_Pack_09_20250808_preview.png
+✅ Preview creado: Anime_Cars_Pack_09_20250808_preview.png
+ℹ️  Subida a PixelDrain omitida - sin archivo ZIP
+🛒 Preparando información para Gumroad...
+
+📋 Revisando productos existentes en Gumroad:
+✅ Token válido - Usuario: Jaime López
+📋 Productos existentes en Gumroad: 2
+   1. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/nyfpb
+   2. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/yqcfy
+ℹ️  Subida a Gumroad omitida - funcionaba con archivos ZIP
+❌ Error preparando información para Gumroad
+⏳ Pausa de 15 segundos...
+
+📦 PACK 10/10
+----------------------------------------
+🎯 Usando configuración optimizada: 64x64, 5 pasos
+📦 Creando Anime_Cars_Pack_10_20250808...
+🎯 Usando configuración optimizada: 64x64
+🔄 Imagen 1/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: anime sports car convertible in shoujo style, anim...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 2/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: slice of life anime supercar with tribal livery de...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 3/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: shounen style rally car with tribal stripe designs...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 4/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: manga style roadster with glowing LED rims, drivin...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 5/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: fantasy anime street racing car with racing stripe...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 6/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: vibrant colors mecha anime style street racer car,...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 7/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: energetic racing scene mecha anime style concept c...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 8/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: peaceful parked scene moe style convertible car, b...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+✅ Pack completado: 8/8 imágenes
+📁 Pack guardado en carpeta: packs\Anime_Cars_Pack_10_20250808
+ℹ️  Sin archivo ZIP - usando solo carpeta con imágenes
+🖼️ Creando preview con watermark...
+✅ Preview creado: previews\Anime_Cars_Pack_10_20250808_preview.png
+✅ Preview creado: Anime_Cars_Pack_10_20250808_preview.png
+ℹ️  Subida a PixelDrain omitida - sin archivo ZIP
+🛒 Preparando información para Gumroad...
+
+📋 Revisando productos existentes en Gumroad:
+✅ Token válido - Usuario: Jaime López
+📋 Productos existentes en Gumroad: 2
+   1. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/nyfpb
+   2. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/yqcfy
+ℹ️  Subida a Gumroad omitida - funcionaba con archivos ZIP
+❌ Error preparando información para Gumroad
+⏳ Pausa de 15 segundos...
+
+============================================================
+🎉 PROCESO COMPLETADO
+✅ Packs exitosos: 0/10
+============================================================
+📂 Archivos generados:
+   • Directorio de trabajo: C:\Users\Jaume\Desktop\project\prompt
+   • Imágenes sin comprimir: packs/
+   • Archivos ZIP: packs_zip/
+   • Prompts del día: prompts.txt
+   • Respaldo de prompts: prompt_backups/
+   • Previews con watermark: previews/
+   • Log de subidas: upload_log.txt
+   • Log de ventas: sales_log.txt
+   • Log de ejecución: ✅ Activado
+============================================================
+🔮 Prompts automáticos:
+   • Se regeneran automáticamente cada día
+   • Basados en la fecha para consistencia
+   • 58 prompts únicos por día
+============================================================
+💰 Información de ventas:
+   • Plataforma: Gumroad (subida manual requerida)
+   • Precio base: €5.00 EUR
+   • Información de productos guardada en: gumroad_manual_upload.txt
+   • URL para crear productos: https://gumroad.com/products/new
+   • Auto-publicación: ❌ Manual (API cambió)
+   • Pay-what-you-want: ✅ Activado
+   • Precio mínimo: €3.00 EUR
+📄 Resumen del marketplace creado: marketplace_summary.html
+   • Resumen HTML: marketplace_summary.html
+============================================================
+🔔 Reproduciendo sonido de advertencia...
+============================================================
+🚗 GENERADOR DE ANIME CARS - INICIANDO
+============================================================
+📅 Fecha: 2025-08-09 10:12:51
+📂 Trabajando en: C:\Users\Jaume\Desktop\project\prompt
+📝 Sistema de logging activado
+🔄 Verificando conexión con Stable Diffusion API...
+============================================================
+🚗 GENERADOR DE ANIME CARS - INICIANDO
+============================================================
+📅 Fecha: 2025-08-09 10:16:23
+📂 Trabajando en: C:\Users\Jaume\Desktop\project\prompt
+📝 Sistema de logging activado
+🔄 Verificando conexión con Stable Diffusion API...
+✅ API de Stable Diffusion disponible
+🔍 Verificando modelos disponibles...
+✅ 1 modelo(s) encontrado(s):
+   - revAnimated_v2Rebirth.safetensors [8463ca6405]
+🎉 WebUI completamente configurado y listo
+
+🛒 Verificando configuración de Gumroad...
+📋 Configuración de Gumroad encontrada
+✅ Configuración de Gumroad cargada correctamente
+✅ Token válido - Usuario: Jaime López
+✅ Gumroad configurado correctamente
+
+🏥 Verificando salud del WebUI antes de generar...
+🏥 Verificando salud del WebUI...
+🔍 Obteniendo información del WebUI...
+📋 Samplers disponibles: 20
+   Primer sampler: DPM++ 2M
+🎯 Modelo actual: revAnimated_v2Rebirth.safetensors [8463ca6405]
+🔧 Scripts disponibles: 8
+💾 Memoria: {'ram': {'free': 32430108672.000004, 'used': 1699209216, 'total': 34129317888.000004}, 'cuda': {'system': {'free': 5058330624, 'used': 3530948608, 'total': 8589279232}, 'active': {'current': 2181934080, 'peak': 4182322176}, 'allocated': {'current': 2181934080, 'peak': 4182322176}, 'reserved': {'current': 2445279232, 'peak': 4385144832}, 'inactive': {'current': 263345152, 'peak': 899535360}, 'events': {'retries': 0, 'oom': 0}}}
+✅ Configuración del WebUI accesible
+🧪 Probando diferentes configuraciones...
+🧪 Probando: Mínimo absoluto
+✅ Mínimo absoluto - FUNCIONA!
+✅ Encontrada configuración que funciona!
+✅ WebUI funcionando con configuración optimizada
+🔄 Generando nuevos prompts para hoy...
+✅ Generados 58 prompts únicos para 2025-08-09
+📝 Guardados en prompts.txt
+💾 Respaldo guardado: prompt_backups\prompts_20250809.txt
+
+🛒 Configurando Gumroad para venta automática...
+📋 Configuración de Gumroad encontrada
+✅ Configuración de Gumroad cargada correctamente
+
+🎯 Configuración:
+   - Packs a generar: 10
+   - Imágenes por pack: 8
+   - Prompts disponibles: 58
+   - Prompts únicos generados para: 2025-08-09
+   - Regeneración automática: ✅ Diaria
+   - WebUI Auto-start: ✅ Activado
+   - WebUI Path: F:\StableDiffusion\stable-diffusion-webui\webui-user.bat
+   - Venta en Gumroad: ✅ Habilitada
+   - Crear previews: ✅ Sí
+   - Precio base: €5.00 eur
+   - Auto-publicar: ❌ No
+
+📦 PACK 1/10
+----------------------------------------
+🎯 Usando configuración optimizada: 64x64, 5 pasos
+📦 Creando Anime_Cars_Pack_01_20250809...
+🎯 Usando configuración optimizada: 64x64
+🔄 Imagen 1/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: slice of life anime racing car, with kawaii sticke...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 2/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: dynamic action pose shoujo style sports car, autum...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 3/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: racing car in mecha anime style, traditional Japan...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 4/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: matte black sports car with kawaii style design, c...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 5/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: rainbow holographic muscle car with manga style de...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 6/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: high-speed motion blur mecha anime style compact c...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 7/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: neon blue muscle car with shounen style design, be...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 8/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: magical girl style, compact car with anime girl li...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+✅ Pack completado: 8/8 imágenes
+📁 Pack guardado en carpeta: packs\Anime_Cars_Pack_01_20250809
+ℹ️  Sin archivo ZIP - usando solo carpeta con imágenes
+🖼️ Creando preview con watermark...
+✅ Preview creado: previews\Anime_Cars_Pack_01_20250809_preview.png
+✅ Preview creado: Anime_Cars_Pack_01_20250809_preview.png
+ℹ️  Subida a PixelDrain omitida - sin archivo ZIP
+🛒 Preparando información para Gumroad...
+
+📋 Revisando productos existentes en Gumroad:
+✅ Token válido - Usuario: Jaime López
+📋 Productos existentes en Gumroad: 3
+   1. Anime Cars Pack #01 - 8 High Quality Images - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/ufxddc
+   2. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/nyfpb
+   3. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/yqcfy
+ℹ️  Subida a Gumroad omitida - funcionaba con archivos ZIP
+❌ Error preparando información para Gumroad
+⏳ Pausa de 15 segundos...
+
+📦 PACK 2/10
+----------------------------------------
+🎯 Usando configuración optimizada: 64x64, 5 pasos
+📦 Creando Anime_Cars_Pack_02_20250809...
+🎯 Usando configuración optimizada: 64x64
+🔄 Imagen 1/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: slice of life anime racing car, with kawaii sticke...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 2/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: dynamic action pose shoujo style sports car, autum...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 3/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: racing car in mecha anime style, traditional Japan...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 4/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: matte black sports car with kawaii style design, c...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 5/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: rainbow holographic muscle car with manga style de...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 6/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: high-speed motion blur mecha anime style compact c...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 7/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: neon blue muscle car with shounen style design, be...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 8/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: magical girl style, compact car with anime girl li...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+✅ Pack completado: 8/8 imágenes
+📁 Pack guardado en carpeta: packs\Anime_Cars_Pack_02_20250809
+ℹ️  Sin archivo ZIP - usando solo carpeta con imágenes
+🖼️ Creando preview con watermark...
+✅ Preview creado: previews\Anime_Cars_Pack_02_20250809_preview.png
+✅ Preview creado: Anime_Cars_Pack_02_20250809_preview.png
+ℹ️  Subida a PixelDrain omitida - sin archivo ZIP
+🛒 Preparando información para Gumroad...
+
+📋 Revisando productos existentes en Gumroad:
+✅ Token válido - Usuario: Jaime López
+📋 Productos existentes en Gumroad: 3
+   1. Anime Cars Pack #01 - 8 High Quality Images - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/ufxddc
+   2. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/nyfpb
+   3. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/yqcfy
+ℹ️  Subida a Gumroad omitida - funcionaba con archivos ZIP
+❌ Error preparando información para Gumroad
+⏳ Pausa de 15 segundos...
+
+📦 PACK 3/10
+----------------------------------------
+🎯 Usando configuración optimizada: 64x64, 5 pasos
+📦 Creando Anime_Cars_Pack_03_20250809...
+🎯 Usando configuración optimizada: 64x64
+🔄 Imagen 1/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: slice of life anime racing car, with kawaii sticke...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 2/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: dynamic action pose shoujo style sports car, autum...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 3/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: racing car in mecha anime style, traditional Japan...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 4/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: matte black sports car with kawaii style design, c...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 5/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: rainbow holographic muscle car with manga style de...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 6/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: high-speed motion blur mecha anime style compact c...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 7/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: neon blue muscle car with shounen style design, be...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 8/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: magical girl style, compact car with anime girl li...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+✅ Pack completado: 8/8 imágenes
+📁 Pack guardado en carpeta: packs\Anime_Cars_Pack_03_20250809
+ℹ️  Sin archivo ZIP - usando solo carpeta con imágenes
+🖼️ Creando preview con watermark...
+✅ Preview creado: previews\Anime_Cars_Pack_03_20250809_preview.png
+✅ Preview creado: Anime_Cars_Pack_03_20250809_preview.png
+ℹ️  Subida a PixelDrain omitida - sin archivo ZIP
+🛒 Preparando información para Gumroad...
+
+📋 Revisando productos existentes en Gumroad:
+✅ Token válido - Usuario: Jaime López
+📋 Productos existentes en Gumroad: 3
+   1. Anime Cars Pack #01 - 8 High Quality Images - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/ufxddc
+   2. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/nyfpb
+   3. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/yqcfy
+ℹ️  Subida a Gumroad omitida - funcionaba con archivos ZIP
+❌ Error preparando información para Gumroad
+⏳ Pausa de 15 segundos...
+
+📦 PACK 4/10
+----------------------------------------
+🎯 Usando configuración optimizada: 64x64, 5 pasos
+📦 Creando Anime_Cars_Pack_04_20250809...
+🎯 Usando configuración optimizada: 64x64
+🔄 Imagen 1/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: slice of life anime racing car, with kawaii sticke...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 2/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: dynamic action pose shoujo style sports car, autum...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 3/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: racing car in mecha anime style, traditional Japan...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 4/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: matte black sports car with kawaii style design, c...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 5/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: rainbow holographic muscle car with manga style de...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 6/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: high-speed motion blur mecha anime style compact c...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 7/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: neon blue muscle car with shounen style design, be...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 8/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: magical girl style, compact car with anime girl li...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+✅ Pack completado: 8/8 imágenes
+📁 Pack guardado en carpeta: packs\Anime_Cars_Pack_04_20250809
+ℹ️  Sin archivo ZIP - usando solo carpeta con imágenes
+🖼️ Creando preview con watermark...
+✅ Preview creado: previews\Anime_Cars_Pack_04_20250809_preview.png
+✅ Preview creado: Anime_Cars_Pack_04_20250809_preview.png
+ℹ️  Subida a PixelDrain omitida - sin archivo ZIP
+🛒 Preparando información para Gumroad...
+
+📋 Revisando productos existentes en Gumroad:
+✅ Token válido - Usuario: Jaime López
+📋 Productos existentes en Gumroad: 3
+   1. Anime Cars Pack #01 - 8 High Quality Images - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/ufxddc
+   2. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/nyfpb
+   3. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/yqcfy
+ℹ️  Subida a Gumroad omitida - funcionaba con archivos ZIP
+❌ Error preparando información para Gumroad
+⏳ Pausa de 15 segundos...
+
+📦 PACK 5/10
+----------------------------------------
+🎯 Usando configuración optimizada: 64x64, 5 pasos
+📦 Creando Anime_Cars_Pack_05_20250809...
+🎯 Usando configuración optimizada: 64x64
+🔄 Imagen 1/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: slice of life anime racing car, with kawaii sticke...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 2/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: dynamic action pose shoujo style sports car, autum...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 3/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: racing car in mecha anime style, traditional Japan...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 4/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: matte black sports car with kawaii style design, c...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 5/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: rainbow holographic muscle car with manga style de...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 6/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: high-speed motion blur mecha anime style compact c...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 7/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: neon blue muscle car with shounen style design, be...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 8/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: magical girl style, compact car with anime girl li...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+✅ Pack completado: 8/8 imágenes
+📁 Pack guardado en carpeta: packs\Anime_Cars_Pack_05_20250809
+ℹ️  Sin archivo ZIP - usando solo carpeta con imágenes
+🖼️ Creando preview con watermark...
+✅ Preview creado: previews\Anime_Cars_Pack_05_20250809_preview.png
+✅ Preview creado: Anime_Cars_Pack_05_20250809_preview.png
+ℹ️  Subida a PixelDrain omitida - sin archivo ZIP
+🛒 Preparando información para Gumroad...
+
+📋 Revisando productos existentes en Gumroad:
+✅ Token válido - Usuario: Jaime López
+📋 Productos existentes en Gumroad: 3
+   1. Anime Cars Pack #01 - 8 High Quality Images - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/ufxddc
+   2. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/nyfpb
+   3. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/yqcfy
+ℹ️  Subida a Gumroad omitida - funcionaba con archivos ZIP
+❌ Error preparando información para Gumroad
+⏳ Pausa de 15 segundos...
+
+📦 PACK 6/10
+----------------------------------------
+🎯 Usando configuración optimizada: 64x64, 5 pasos
+📦 Creando Anime_Cars_Pack_06_20250809...
+🎯 Usando configuración optimizada: 64x64
+🔄 Imagen 1/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: slice of life anime racing car, with kawaii sticke...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 2/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: dynamic action pose shoujo style sports car, autum...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 3/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: racing car in mecha anime style, traditional Japan...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 4/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: matte black sports car with kawaii style design, c...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 5/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: rainbow holographic muscle car with manga style de...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 6/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: high-speed motion blur mecha anime style compact c...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 7/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: neon blue muscle car with shounen style design, be...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 8/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: magical girl style, compact car with anime girl li...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+✅ Pack completado: 8/8 imágenes
+📁 Pack guardado en carpeta: packs\Anime_Cars_Pack_06_20250809
+ℹ️  Sin archivo ZIP - usando solo carpeta con imágenes
+🖼️ Creando preview con watermark...
+✅ Preview creado: previews\Anime_Cars_Pack_06_20250809_preview.png
+✅ Preview creado: Anime_Cars_Pack_06_20250809_preview.png
+ℹ️  Subida a PixelDrain omitida - sin archivo ZIP
+🛒 Preparando información para Gumroad...
+
+📋 Revisando productos existentes en Gumroad:
+✅ Token válido - Usuario: Jaime López
+📋 Productos existentes en Gumroad: 3
+   1. Anime Cars Pack #01 - 8 High Quality Images - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/ufxddc
+   2. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/nyfpb
+   3. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/yqcfy
+ℹ️  Subida a Gumroad omitida - funcionaba con archivos ZIP
+❌ Error preparando información para Gumroad
+⏳ Pausa de 15 segundos...
+
+📦 PACK 7/10
+----------------------------------------
+🎯 Usando configuración optimizada: 64x64, 5 pasos
+📦 Creando Anime_Cars_Pack_07_20250809...
+🎯 Usando configuración optimizada: 64x64
+🔄 Imagen 1/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: slice of life anime racing car, with kawaii sticke...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 2/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: dynamic action pose shoujo style sports car, autum...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 3/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: racing car in mecha anime style, traditional Japan...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 4/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: matte black sports car with kawaii style design, c...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 5/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: rainbow holographic muscle car with manga style de...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 6/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: high-speed motion blur mecha anime style compact c...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 7/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: neon blue muscle car with shounen style design, be...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 8/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: magical girl style, compact car with anime girl li...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+✅ Pack completado: 8/8 imágenes
+📁 Pack guardado en carpeta: packs\Anime_Cars_Pack_07_20250809
+ℹ️  Sin archivo ZIP - usando solo carpeta con imágenes
+🖼️ Creando preview con watermark...
+✅ Preview creado: previews\Anime_Cars_Pack_07_20250809_preview.png
+✅ Preview creado: Anime_Cars_Pack_07_20250809_preview.png
+ℹ️  Subida a PixelDrain omitida - sin archivo ZIP
+🛒 Preparando información para Gumroad...
+
+📋 Revisando productos existentes en Gumroad:
+✅ Token válido - Usuario: Jaime López
+📋 Productos existentes en Gumroad: 3
+   1. Anime Cars Pack #01 - 8 High Quality Images - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/ufxddc
+   2. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/nyfpb
+   3. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/yqcfy
+ℹ️  Subida a Gumroad omitida - funcionaba con archivos ZIP
+❌ Error preparando información para Gumroad
+⏳ Pausa de 15 segundos...
+
+📦 PACK 8/10
+----------------------------------------
+🎯 Usando configuración optimizada: 64x64, 5 pasos
+📦 Creando Anime_Cars_Pack_08_20250809...
+🎯 Usando configuración optimizada: 64x64
+🔄 Imagen 1/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: slice of life anime racing car, with kawaii sticke...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 2/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: dynamic action pose shoujo style sports car, autum...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 3/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: racing car in mecha anime style, traditional Japan...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 4/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: matte black sports car with kawaii style design, c...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 5/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: rainbow holographic muscle car with manga style de...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 6/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: high-speed motion blur mecha anime style compact c...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 7/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: neon blue muscle car with shounen style design, be...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 8/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: magical girl style, compact car with anime girl li...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+✅ Pack completado: 8/8 imágenes
+📁 Pack guardado en carpeta: packs\Anime_Cars_Pack_08_20250809
+ℹ️  Sin archivo ZIP - usando solo carpeta con imágenes
+🖼️ Creando preview con watermark...
+✅ Preview creado: previews\Anime_Cars_Pack_08_20250809_preview.png
+✅ Preview creado: Anime_Cars_Pack_08_20250809_preview.png
+ℹ️  Subida a PixelDrain omitida - sin archivo ZIP
+🛒 Preparando información para Gumroad...
+
+📋 Revisando productos existentes en Gumroad:
+✅ Token válido - Usuario: Jaime López
+📋 Productos existentes en Gumroad: 3
+   1. Anime Cars Pack #01 - 8 High Quality Images - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/ufxddc
+   2. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/nyfpb
+   3. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/yqcfy
+ℹ️  Subida a Gumroad omitida - funcionaba con archivos ZIP
+❌ Error preparando información para Gumroad
+⏳ Pausa de 15 segundos...
+
+📦 PACK 9/10
+----------------------------------------
+🎯 Usando configuración optimizada: 64x64, 5 pasos
+📦 Creando Anime_Cars_Pack_09_20250809...
+🎯 Usando configuración optimizada: 64x64
+🔄 Imagen 1/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: slice of life anime racing car, with kawaii sticke...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 2/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: dynamic action pose shoujo style sports car, autum...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 3/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: racing car in mecha anime style, traditional Japan...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 4/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: matte black sports car with kawaii style design, c...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 5/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: rainbow holographic muscle car with manga style de...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 6/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: high-speed motion blur mecha anime style compact c...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 7/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: neon blue muscle car with shounen style design, be...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 8/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: magical girl style, compact car with anime girl li...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+✅ Pack completado: 8/8 imágenes
+📁 Pack guardado en carpeta: packs\Anime_Cars_Pack_09_20250809
+ℹ️  Sin archivo ZIP - usando solo carpeta con imágenes
+🖼️ Creando preview con watermark...
+✅ Preview creado: previews\Anime_Cars_Pack_09_20250809_preview.png
+✅ Preview creado: Anime_Cars_Pack_09_20250809_preview.png
+ℹ️  Subida a PixelDrain omitida - sin archivo ZIP
+🛒 Preparando información para Gumroad...
+
+📋 Revisando productos existentes en Gumroad:
+✅ Token válido - Usuario: Jaime López
+📋 Productos existentes en Gumroad: 3
+   1. Anime Cars Pack #01 - 8 High Quality Images - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/ufxddc
+   2. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/nyfpb
+   3. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/yqcfy
+ℹ️  Subida a Gumroad omitida - funcionaba con archivos ZIP
+❌ Error preparando información para Gumroad
+⏳ Pausa de 15 segundos...
+
+📦 PACK 10/10
+----------------------------------------
+🎯 Usando configuración optimizada: 64x64, 5 pasos
+📦 Creando Anime_Cars_Pack_10_20250809...
+🎯 Usando configuración optimizada: 64x64
+🔄 Imagen 1/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: slice of life anime racing car, with kawaii sticke...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 2/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: dynamic action pose shoujo style sports car, autum...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 3/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: racing car in mecha anime style, traditional Japan...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 4/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: matte black sports car with kawaii style design, c...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 5/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: rainbow holographic muscle car with manga style de...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 6/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: high-speed motion blur mecha anime style compact c...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 7/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: neon blue muscle car with shounen style design, be...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+🔄 Imagen 8/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: magical girl style, compact car with anime girl li...
+   📐 Configuración: 64x64, 5 pasos, CFG 1
+✅ Imagen generada exitosamente
+✅ Pack completado: 8/8 imágenes
+📁 Pack guardado en carpeta: packs\Anime_Cars_Pack_10_20250809
+ℹ️  Sin archivo ZIP - usando solo carpeta con imágenes
+🖼️ Creando preview con watermark...
+✅ Preview creado: previews\Anime_Cars_Pack_10_20250809_preview.png
+✅ Preview creado: Anime_Cars_Pack_10_20250809_preview.png
+ℹ️  Subida a PixelDrain omitida - sin archivo ZIP
+🛒 Preparando información para Gumroad...
+
+📋 Revisando productos existentes en Gumroad:
+✅ Token válido - Usuario: Jaime López
+📋 Productos existentes en Gumroad: 3
+   1. Anime Cars Pack #01 - 8 High Quality Images - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/ufxddc
+   2. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/nyfpb
+   3. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/yqcfy
+ℹ️  Subida a Gumroad omitida - funcionaba con archivos ZIP
+❌ Error preparando información para Gumroad
+⏳ Pausa de 15 segundos...
+
+============================================================
+🎉 PROCESO COMPLETADO
+✅ Packs exitosos: 0/10
+============================================================
+📂 Archivos generados:
+   • Directorio de trabajo: C:\Users\Jaume\Desktop\project\prompt
+   • Imágenes sin comprimir: packs/
+   • Archivos ZIP: packs_zip/
+   • Prompts del día: prompts.txt
+   • Respaldo de prompts: prompt_backups/
+   • Previews con watermark: previews/
+   • Log de subidas: upload_log.txt
+   • Log de ventas: sales_log.txt
+   • Log de ejecución: ✅ Activado
+============================================================
+🔮 Prompts automáticos:
+   • Se regeneran automáticamente cada día
+   • Basados en la fecha para consistencia
+   • 58 prompts únicos por día
+============================================================
+💰 Información de ventas:
+   • Plataforma: Gumroad (subida manual requerida)
+   • Precio base: €5.00 EUR
+   • Información de productos guardada en: gumroad_manual_upload.txt
+   • URL para crear productos: https://gumroad.com/products/new
+   • Auto-publicación: ❌ Manual (API cambió)
+   • Pay-what-you-want: ✅ Activado
+   • Precio mínimo: €3.00 EUR
+📄 Resumen del marketplace creado: marketplace_summary.html
+   • Resumen HTML: marketplace_summary.html
+============================================================
+🔔 Reproduciendo sonido de advertencia...
+============================================================
+🚗 GENERADOR DE ANIME CARS - INICIANDO
+============================================================
+📅 Fecha: 2025-08-09 16:13:31
+📂 Trabajando en: C:\Users\Jaume\Desktop\project\prompt
+📝 Sistema de logging activado
+🔄 Verificando conexión con Stable Diffusion API...
+✅ API de Stable Diffusion disponible
+🔍 Verificando modelos disponibles...
+✅ 1 modelo(s) encontrado(s):
+   - revAnimated_v2Rebirth.safetensors [8463ca6405]
+🎉 WebUI completamente configurado y listo
+
+🛒 Verificando configuración de Gumroad...
+📋 Configuración de Gumroad encontrada
+✅ Configuración de Gumroad cargada correctamente
+✅ Token válido - Usuario: Jaime López
+✅ Gumroad configurado correctamente
+
+🏥 Verificando salud del WebUI antes de generar...
+🏥 Verificando salud del WebUI...
+🔍 Obteniendo información del WebUI...
+📋 Samplers disponibles: 20
+   Primer sampler: DPM++ 2M
+🎯 Modelo actual: revAnimated_v2Rebirth.safetensors [8463ca6405]
+🔧 Scripts disponibles: 8
+💾 Memoria: {'ram': {'free': 32412168191.999996, 'used': 1717149696, 'total': 34129317887.999996}, 'cuda': {'system': {'free': 5058330624, 'used': 3530948608, 'total': 8589279232}, 'active': {'current': 2182170624, 'peak': 4182322176}, 'allocated': {'current': 2182170624, 'peak': 4182322176}, 'reserved': {'current': 2445279232, 'peak': 4385144832}, 'inactive': {'current': 263108608, 'peak': 598489088}, 'events': {'retries': 0, 'oom': 0}}}
+✅ Configuración del WebUI accesible
+🧪 Probando diferentes configuraciones...
+🧪 Probando: Mínimo absoluto
+✅ Mínimo absoluto - FUNCIONA!
+✅ Encontrada configuración que funciona!
+✅ WebUI funcionando con configuración optimizada
+✅ Cargados 58 prompts del día actual desde prompts.txt
+
+🛒 Configurando Gumroad para venta automática...
+📋 Configuración de Gumroad encontrada
+✅ Configuración de Gumroad cargada correctamente
+
+🎯 Configuración:
+   - Packs a generar: 10
+   - Imágenes por pack: 8
+   - Prompts disponibles: 58
+   - Prompts únicos generados para: 2025-08-09
+   - Regeneración automática: ✅ Diaria
+   - WebUI Auto-start: ✅ Activado
+   - WebUI Path: F:\StableDiffusion\stable-diffusion-webui\webui-user.bat
+   - Venta en Gumroad: ✅ Habilitada
+   - Crear previews: ✅ Sí
+   - Precio base: €5.00 eur
+   - Auto-publicar: ❌ No
+
+📦 PACK 1/10
+----------------------------------------
+🎯 Usando configuración optimizada: 512x512, 25 pasos
+📦 Creando Anime_Cars_Pack_01_20250809...
+🎯 Usando configuración optimizada: 512x512
+🔄 Imagen 1/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: slice of life anime racing car, with kawaii sticke...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, slice of life anime racing car, with kawaii stickers, autumn forest road, sunset orange lighting, soft pastel lighting, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 2/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: dynamic action pose shoujo style sports car, autum...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, dynamic action pose shoujo style sports car, autumn forest road background, with cute mascot decorations, neon blue accents, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 3/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: racing car in mecha anime style, traditional Japan...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, racing car in mecha anime style, traditional Japanese village, with spoiler wing, vibrant colors, hot pink theme, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 4/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: matte black sports car with kawaii style design, c...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, matte black sports car with kawaii style design, cherry blossom avenue, with holographic panels, energetic racing scene, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 5/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: rainbow holographic muscle car with manga style de...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, rainbow holographic muscle car with manga style design, anime school courtyard, with holographic panels, bright and cheerful, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 6/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: high-speed motion blur mecha anime style compact c...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, high-speed motion blur mecha anime style compact car, mountain pass background, with flame decals, hot pink accents, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 7/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: neon blue muscle car with shounen style design, be...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, neon blue muscle car with shounen style design, beach sunset, with flame decals, mysterious night scene, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 8/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: magical girl style, compact car with anime girl li...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, magical girl style, compact car with anime girl livery, silver metallic colors, festival fireworks background, energetic racing scene, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+✅ Pack completado: 8/8 imágenes
+📁 Pack guardado en carpeta: packs\Anime_Cars_Pack_01_20250809
+ℹ️  Sin archivo ZIP - usando solo carpeta con imágenes
+🖼️ Creando preview con watermark...
+✅ Preview creado: previews\Anime_Cars_Pack_01_20250809_preview.png
+✅ Preview creado: Anime_Cars_Pack_01_20250809_preview.png
+ℹ️  Subida a PixelDrain omitida - sin archivo ZIP
+🛒 Preparando información para Gumroad...
+
+📋 Revisando productos existentes en Gumroad:
+✅ Token válido - Usuario: Jaime López
+📋 Productos existentes en Gumroad: 4
+   1. Anime Cars Pack #01 - 8 High Quality Images - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/mkpws
+   2. Anime Cars Pack #01 - 8 High Quality Images - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/ufxddc
+   3. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/nyfpb
+   4. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/yqcfy
+ℹ️  Subida a Gumroad omitida - funcionaba con archivos ZIP
+❌ Error preparando información para Gumroad
+⏳ Pausa de 15 segundos...
+
+📦 PACK 2/10
+----------------------------------------
+🎯 Usando configuración optimizada: 512x512, 25 pasos
+📦 Creando Anime_Cars_Pack_02_20250809...
+🎯 Usando configuración optimizada: 512x512
+🔄 Imagen 1/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: slice of life anime racing car, with kawaii sticke...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, slice of life anime racing car, with kawaii stickers, autumn forest road, sunset orange lighting, soft pastel lighting, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 2/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: dynamic action pose shoujo style sports car, autum...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, dynamic action pose shoujo style sports car, autumn forest road background, with cute mascot decorations, neon blue accents, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 3/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: racing car in mecha anime style, traditional Japan...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, racing car in mecha anime style, traditional Japanese village, with spoiler wing, vibrant colors, hot pink theme, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 4/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: matte black sports car with kawaii style design, c...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, matte black sports car with kawaii style design, cherry blossom avenue, with holographic panels, energetic racing scene, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 5/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: rainbow holographic muscle car with manga style de...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, rainbow holographic muscle car with manga style design, anime school courtyard, with holographic panels, bright and cheerful, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 6/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: high-speed motion blur mecha anime style compact c...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, high-speed motion blur mecha anime style compact car, mountain pass background, with flame decals, hot pink accents, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 7/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: neon blue muscle car with shounen style design, be...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, neon blue muscle car with shounen style design, beach sunset, with flame decals, mysterious night scene, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 8/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: magical girl style, compact car with anime girl li...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, magical girl style, compact car with anime girl livery, silver metallic colors, festival fireworks background, energetic racing scene, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+✅ Pack completado: 8/8 imágenes
+📁 Pack guardado en carpeta: packs\Anime_Cars_Pack_02_20250809
+ℹ️  Sin archivo ZIP - usando solo carpeta con imágenes
+🖼️ Creando preview con watermark...
+✅ Preview creado: previews\Anime_Cars_Pack_02_20250809_preview.png
+✅ Preview creado: Anime_Cars_Pack_02_20250809_preview.png
+ℹ️  Subida a PixelDrain omitida - sin archivo ZIP
+🛒 Preparando información para Gumroad...
+
+📋 Revisando productos existentes en Gumroad:
+✅ Token válido - Usuario: Jaime López
+📋 Productos existentes en Gumroad: 4
+   1. Anime Cars Pack #01 - 8 High Quality Images - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/mkpws
+   2. Anime Cars Pack #01 - 8 High Quality Images - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/ufxddc
+   3. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/nyfpb
+   4. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/yqcfy
+ℹ️  Subida a Gumroad omitida - funcionaba con archivos ZIP
+❌ Error preparando información para Gumroad
+⏳ Pausa de 15 segundos...
+
+📦 PACK 3/10
+----------------------------------------
+🎯 Usando configuración optimizada: 512x512, 25 pasos
+📦 Creando Anime_Cars_Pack_03_20250809...
+🎯 Usando configuración optimizada: 512x512
+🔄 Imagen 1/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: slice of life anime racing car, with kawaii sticke...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, slice of life anime racing car, with kawaii stickers, autumn forest road, sunset orange lighting, soft pastel lighting, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 2/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: dynamic action pose shoujo style sports car, autum...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, dynamic action pose shoujo style sports car, autumn forest road background, with cute mascot decorations, neon blue accents, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 3/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: racing car in mecha anime style, traditional Japan...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, racing car in mecha anime style, traditional Japanese village, with spoiler wing, vibrant colors, hot pink theme, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 4/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: matte black sports car with kawaii style design, c...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, matte black sports car with kawaii style design, cherry blossom avenue, with holographic panels, energetic racing scene, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 5/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: rainbow holographic muscle car with manga style de...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, rainbow holographic muscle car with manga style design, anime school courtyard, with holographic panels, bright and cheerful, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 6/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: high-speed motion blur mecha anime style compact c...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, high-speed motion blur mecha anime style compact car, mountain pass background, with flame decals, hot pink accents, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 7/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: neon blue muscle car with shounen style design, be...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, neon blue muscle car with shounen style design, beach sunset, with flame decals, mysterious night scene, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 8/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: magical girl style, compact car with anime girl li...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, magical girl style, compact car with anime girl livery, silver metallic colors, festival fireworks background, energetic racing scene, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+✅ Pack completado: 8/8 imágenes
+📁 Pack guardado en carpeta: packs\Anime_Cars_Pack_03_20250809
+ℹ️  Sin archivo ZIP - usando solo carpeta con imágenes
+🖼️ Creando preview con watermark...
+✅ Preview creado: previews\Anime_Cars_Pack_03_20250809_preview.png
+✅ Preview creado: Anime_Cars_Pack_03_20250809_preview.png
+ℹ️  Subida a PixelDrain omitida - sin archivo ZIP
+🛒 Preparando información para Gumroad...
+
+📋 Revisando productos existentes en Gumroad:
+✅ Token válido - Usuario: Jaime López
+📋 Productos existentes en Gumroad: 4
+   1. Anime Cars Pack #01 - 8 High Quality Images - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/mkpws
+   2. Anime Cars Pack #01 - 8 High Quality Images - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/ufxddc
+   3. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/nyfpb
+   4. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/yqcfy
+ℹ️  Subida a Gumroad omitida - funcionaba con archivos ZIP
+❌ Error preparando información para Gumroad
+⏳ Pausa de 15 segundos...
+
+📦 PACK 4/10
+----------------------------------------
+🎯 Usando configuración optimizada: 512x512, 25 pasos
+📦 Creando Anime_Cars_Pack_04_20250809...
+🎯 Usando configuración optimizada: 512x512
+🔄 Imagen 1/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: slice of life anime racing car, with kawaii sticke...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, slice of life anime racing car, with kawaii stickers, autumn forest road, sunset orange lighting, soft pastel lighting, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 2/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: dynamic action pose shoujo style sports car, autum...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, dynamic action pose shoujo style sports car, autumn forest road background, with cute mascot decorations, neon blue accents, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 3/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: racing car in mecha anime style, traditional Japan...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, racing car in mecha anime style, traditional Japanese village, with spoiler wing, vibrant colors, hot pink theme, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 4/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: matte black sports car with kawaii style design, c...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, matte black sports car with kawaii style design, cherry blossom avenue, with holographic panels, energetic racing scene, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 5/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: rainbow holographic muscle car with manga style de...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, rainbow holographic muscle car with manga style design, anime school courtyard, with holographic panels, bright and cheerful, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 6/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: high-speed motion blur mecha anime style compact c...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, high-speed motion blur mecha anime style compact car, mountain pass background, with flame decals, hot pink accents, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 7/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: neon blue muscle car with shounen style design, be...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, neon blue muscle car with shounen style design, beach sunset, with flame decals, mysterious night scene, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 8/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: magical girl style, compact car with anime girl li...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, magical girl style, compact car with anime girl livery, silver metallic colors, festival fireworks background, energetic racing scene, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+✅ Pack completado: 8/8 imágenes
+📁 Pack guardado en carpeta: packs\Anime_Cars_Pack_04_20250809
+ℹ️  Sin archivo ZIP - usando solo carpeta con imágenes
+🖼️ Creando preview con watermark...
+✅ Preview creado: previews\Anime_Cars_Pack_04_20250809_preview.png
+✅ Preview creado: Anime_Cars_Pack_04_20250809_preview.png
+ℹ️  Subida a PixelDrain omitida - sin archivo ZIP
+🛒 Preparando información para Gumroad...
+
+📋 Revisando productos existentes en Gumroad:
+✅ Token válido - Usuario: Jaime López
+📋 Productos existentes en Gumroad: 4
+   1. Anime Cars Pack #01 - 8 High Quality Images - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/mkpws
+   2. Anime Cars Pack #01 - 8 High Quality Images - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/ufxddc
+   3. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/nyfpb
+   4. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/yqcfy
+ℹ️  Subida a Gumroad omitida - funcionaba con archivos ZIP
+❌ Error preparando información para Gumroad
+⏳ Pausa de 15 segundos...
+
+📦 PACK 5/10
+----------------------------------------
+🎯 Usando configuración optimizada: 512x512, 25 pasos
+📦 Creando Anime_Cars_Pack_05_20250809...
+🎯 Usando configuración optimizada: 512x512
+🔄 Imagen 1/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: slice of life anime racing car, with kawaii sticke...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, slice of life anime racing car, with kawaii stickers, autumn forest road, sunset orange lighting, soft pastel lighting, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 2/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: dynamic action pose shoujo style sports car, autum...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, dynamic action pose shoujo style sports car, autumn forest road background, with cute mascot decorations, neon blue accents, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 3/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: racing car in mecha anime style, traditional Japan...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, racing car in mecha anime style, traditional Japanese village, with spoiler wing, vibrant colors, hot pink theme, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 4/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: matte black sports car with kawaii style design, c...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, matte black sports car with kawaii style design, cherry blossom avenue, with holographic panels, energetic racing scene, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 5/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: rainbow holographic muscle car with manga style de...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, rainbow holographic muscle car with manga style design, anime school courtyard, with holographic panels, bright and cheerful, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 6/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: high-speed motion blur mecha anime style compact c...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, high-speed motion blur mecha anime style compact car, mountain pass background, with flame decals, hot pink accents, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 7/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: neon blue muscle car with shounen style design, be...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, neon blue muscle car with shounen style design, beach sunset, with flame decals, mysterious night scene, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 8/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: magical girl style, compact car with anime girl li...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, magical girl style, compact car with anime girl livery, silver metallic colors, festival fireworks background, energetic racing scene, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+✅ Pack completado: 8/8 imágenes
+📁 Pack guardado en carpeta: packs\Anime_Cars_Pack_05_20250809
+ℹ️  Sin archivo ZIP - usando solo carpeta con imágenes
+🖼️ Creando preview con watermark...
+✅ Preview creado: previews\Anime_Cars_Pack_05_20250809_preview.png
+✅ Preview creado: Anime_Cars_Pack_05_20250809_preview.png
+ℹ️  Subida a PixelDrain omitida - sin archivo ZIP
+🛒 Preparando información para Gumroad...
+
+📋 Revisando productos existentes en Gumroad:
+✅ Token válido - Usuario: Jaime López
+📋 Productos existentes en Gumroad: 4
+   1. Anime Cars Pack #01 - 8 High Quality Images - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/mkpws
+   2. Anime Cars Pack #01 - 8 High Quality Images - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/ufxddc
+   3. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/nyfpb
+   4. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/yqcfy
+ℹ️  Subida a Gumroad omitida - funcionaba con archivos ZIP
+❌ Error preparando información para Gumroad
+⏳ Pausa de 15 segundos...
+
+📦 PACK 6/10
+----------------------------------------
+🎯 Usando configuración optimizada: 512x512, 25 pasos
+📦 Creando Anime_Cars_Pack_06_20250809...
+🎯 Usando configuración optimizada: 512x512
+🔄 Imagen 1/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: slice of life anime racing car, with kawaii sticke...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, slice of life anime racing car, with kawaii stickers, autumn forest road, sunset orange lighting, soft pastel lighting, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 2/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: dynamic action pose shoujo style sports car, autum...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, dynamic action pose shoujo style sports car, autumn forest road background, with cute mascot decorations, neon blue accents, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 3/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: racing car in mecha anime style, traditional Japan...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, racing car in mecha anime style, traditional Japanese village, with spoiler wing, vibrant colors, hot pink theme, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 4/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: matte black sports car with kawaii style design, c...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, matte black sports car with kawaii style design, cherry blossom avenue, with holographic panels, energetic racing scene, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 5/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: rainbow holographic muscle car with manga style de...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, rainbow holographic muscle car with manga style design, anime school courtyard, with holographic panels, bright and cheerful, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 6/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: high-speed motion blur mecha anime style compact c...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, high-speed motion blur mecha anime style compact car, mountain pass background, with flame decals, hot pink accents, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 7/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: neon blue muscle car with shounen style design, be...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, neon blue muscle car with shounen style design, beach sunset, with flame decals, mysterious night scene, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 8/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: magical girl style, compact car with anime girl li...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, magical girl style, compact car with anime girl livery, silver metallic colors, festival fireworks background, energetic racing scene, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+✅ Pack completado: 8/8 imágenes
+📁 Pack guardado en carpeta: packs\Anime_Cars_Pack_06_20250809
+ℹ️  Sin archivo ZIP - usando solo carpeta con imágenes
+🖼️ Creando preview con watermark...
+✅ Preview creado: previews\Anime_Cars_Pack_06_20250809_preview.png
+✅ Preview creado: Anime_Cars_Pack_06_20250809_preview.png
+ℹ️  Subida a PixelDrain omitida - sin archivo ZIP
+🛒 Preparando información para Gumroad...
+
+📋 Revisando productos existentes en Gumroad:
+✅ Token válido - Usuario: Jaime López
+📋 Productos existentes en Gumroad: 4
+   1. Anime Cars Pack #01 - 8 High Quality Images - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/mkpws
+   2. Anime Cars Pack #01 - 8 High Quality Images - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/ufxddc
+   3. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/nyfpb
+   4. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/yqcfy
+ℹ️  Subida a Gumroad omitida - funcionaba con archivos ZIP
+❌ Error preparando información para Gumroad
+⏳ Pausa de 15 segundos...
+
+📦 PACK 7/10
+----------------------------------------
+🎯 Usando configuración optimizada: 512x512, 25 pasos
+📦 Creando Anime_Cars_Pack_07_20250809...
+🎯 Usando configuración optimizada: 512x512
+🔄 Imagen 1/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: slice of life anime racing car, with kawaii sticke...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, slice of life anime racing car, with kawaii stickers, autumn forest road, sunset orange lighting, soft pastel lighting, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 2/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: dynamic action pose shoujo style sports car, autum...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, dynamic action pose shoujo style sports car, autumn forest road background, with cute mascot decorations, neon blue accents, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 3/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: racing car in mecha anime style, traditional Japan...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, racing car in mecha anime style, traditional Japanese village, with spoiler wing, vibrant colors, hot pink theme, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 4/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: matte black sports car with kawaii style design, c...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, matte black sports car with kawaii style design, cherry blossom avenue, with holographic panels, energetic racing scene, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 5/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: rainbow holographic muscle car with manga style de...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, rainbow holographic muscle car with manga style design, anime school courtyard, with holographic panels, bright and cheerful, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 6/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: high-speed motion blur mecha anime style compact c...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, high-speed motion blur mecha anime style compact car, mountain pass background, with flame decals, hot pink accents, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 7/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: neon blue muscle car with shounen style design, be...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, neon blue muscle car with shounen style design, beach sunset, with flame decals, mysterious night scene, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 8/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: magical girl style, compact car with anime girl li...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, magical girl style, compact car with anime girl livery, silver metallic colors, festival fireworks background, energetic racing scene, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+✅ Pack completado: 8/8 imágenes
+📁 Pack guardado en carpeta: packs\Anime_Cars_Pack_07_20250809
+ℹ️  Sin archivo ZIP - usando solo carpeta con imágenes
+🖼️ Creando preview con watermark...
+✅ Preview creado: previews\Anime_Cars_Pack_07_20250809_preview.png
+✅ Preview creado: Anime_Cars_Pack_07_20250809_preview.png
+ℹ️  Subida a PixelDrain omitida - sin archivo ZIP
+🛒 Preparando información para Gumroad...
+
+📋 Revisando productos existentes en Gumroad:
+✅ Token válido - Usuario: Jaime López
+📋 Productos existentes en Gumroad: 4
+   1. Anime Cars Pack #01 - 8 High Quality Images - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/mkpws
+   2. Anime Cars Pack #01 - 8 High Quality Images - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/ufxddc
+   3. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/nyfpb
+   4. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/yqcfy
+ℹ️  Subida a Gumroad omitida - funcionaba con archivos ZIP
+❌ Error preparando información para Gumroad
+⏳ Pausa de 15 segundos...
+
+📦 PACK 8/10
+----------------------------------------
+🎯 Usando configuración optimizada: 512x512, 25 pasos
+📦 Creando Anime_Cars_Pack_08_20250809...
+🎯 Usando configuración optimizada: 512x512
+🔄 Imagen 1/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: slice of life anime racing car, with kawaii sticke...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, slice of life anime racing car, with kawaii stickers, autumn forest road, sunset orange lighting, soft pastel lighting, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 2/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: dynamic action pose shoujo style sports car, autum...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, dynamic action pose shoujo style sports car, autumn forest road background, with cute mascot decorations, neon blue accents, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 3/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: racing car in mecha anime style, traditional Japan...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, racing car in mecha anime style, traditional Japanese village, with spoiler wing, vibrant colors, hot pink theme, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 4/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: matte black sports car with kawaii style design, c...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, matte black sports car with kawaii style design, cherry blossom avenue, with holographic panels, energetic racing scene, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 5/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: rainbow holographic muscle car with manga style de...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, rainbow holographic muscle car with manga style design, anime school courtyard, with holographic panels, bright and cheerful, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 6/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: high-speed motion blur mecha anime style compact c...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, high-speed motion blur mecha anime style compact car, mountain pass background, with flame decals, hot pink accents, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 7/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: neon blue muscle car with shounen style design, be...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, neon blue muscle car with shounen style design, beach sunset, with flame decals, mysterious night scene, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 8/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: magical girl style, compact car with anime girl li...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, magical girl style, compact car with anime girl livery, silver metallic colors, festival fireworks background, energetic racing scene, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+✅ Pack completado: 8/8 imágenes
+📁 Pack guardado en carpeta: packs\Anime_Cars_Pack_08_20250809
+ℹ️  Sin archivo ZIP - usando solo carpeta con imágenes
+🖼️ Creando preview con watermark...
+✅ Preview creado: previews\Anime_Cars_Pack_08_20250809_preview.png
+✅ Preview creado: Anime_Cars_Pack_08_20250809_preview.png
+ℹ️  Subida a PixelDrain omitida - sin archivo ZIP
+🛒 Preparando información para Gumroad...
+
+📋 Revisando productos existentes en Gumroad:
+✅ Token válido - Usuario: Jaime López
+📋 Productos existentes en Gumroad: 4
+   1. Anime Cars Pack #01 - 8 High Quality Images - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/mkpws
+   2. Anime Cars Pack #01 - 8 High Quality Images - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/ufxddc
+   3. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/nyfpb
+   4. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/yqcfy
+ℹ️  Subida a Gumroad omitida - funcionaba con archivos ZIP
+❌ Error preparando información para Gumroad
+⏳ Pausa de 15 segundos...
+
+📦 PACK 9/10
+----------------------------------------
+🎯 Usando configuración optimizada: 512x512, 25 pasos
+📦 Creando Anime_Cars_Pack_09_20250809...
+🎯 Usando configuración optimizada: 512x512
+🔄 Imagen 1/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: slice of life anime racing car, with kawaii sticke...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, slice of life anime racing car, with kawaii stickers, autumn forest road, sunset orange lighting, soft pastel lighting, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 2/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: dynamic action pose shoujo style sports car, autum...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, dynamic action pose shoujo style sports car, autumn forest road background, with cute mascot decorations, neon blue accents, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 3/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: racing car in mecha anime style, traditional Japan...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, racing car in mecha anime style, traditional Japanese village, with spoiler wing, vibrant colors, hot pink theme, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 4/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: matte black sports car with kawaii style design, c...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, matte black sports car with kawaii style design, cherry blossom avenue, with holographic panels, energetic racing scene, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 5/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: rainbow holographic muscle car with manga style de...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, rainbow holographic muscle car with manga style design, anime school courtyard, with holographic panels, bright and cheerful, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 6/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: high-speed motion blur mecha anime style compact c...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, high-speed motion blur mecha anime style compact car, mountain pass background, with flame decals, hot pink accents, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 7/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: neon blue muscle car with shounen style design, be...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, neon blue muscle car with shounen style design, beach sunset, with flame decals, mysterious night scene, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 8/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: magical girl style, compact car with anime girl li...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, magical girl style, compact car with anime girl livery, silver metallic colors, festival fireworks background, energetic racing scene, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+✅ Pack completado: 8/8 imágenes
+📁 Pack guardado en carpeta: packs\Anime_Cars_Pack_09_20250809
+ℹ️  Sin archivo ZIP - usando solo carpeta con imágenes
+🖼️ Creando preview con watermark...
+✅ Preview creado: previews\Anime_Cars_Pack_09_20250809_preview.png
+✅ Preview creado: Anime_Cars_Pack_09_20250809_preview.png
+ℹ️  Subida a PixelDrain omitida - sin archivo ZIP
+🛒 Preparando información para Gumroad...
+
+📋 Revisando productos existentes en Gumroad:
+✅ Token válido - Usuario: Jaime López
+📋 Productos existentes en Gumroad: 4
+   1. Anime Cars Pack #01 - 8 High Quality Images - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/mkpws
+   2. Anime Cars Pack #01 - 8 High Quality Images - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/ufxddc
+   3. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/nyfpb
+   4. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/yqcfy
+ℹ️  Subida a Gumroad omitida - funcionaba con archivos ZIP
+❌ Error preparando información para Gumroad
+⏳ Pausa de 15 segundos...
+
+📦 PACK 10/10
+----------------------------------------
+🎯 Usando configuración optimizada: 512x512, 25 pasos
+📦 Creando Anime_Cars_Pack_10_20250809...
+🎯 Usando configuración optimizada: 512x512
+🔄 Imagen 1/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: slice of life anime racing car, with kawaii sticke...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, slice of life anime racing car, with kawaii stickers, autumn forest road, sunset orange lighting, soft pastel lighting, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 2/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: dynamic action pose shoujo style sports car, autum...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, dynamic action pose shoujo style sports car, autumn forest road background, with cute mascot decorations, neon blue accents, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 3/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: racing car in mecha anime style, traditional Japan...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, racing car in mecha anime style, traditional Japanese village, with spoiler wing, vibrant colors, hot pink theme, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 4/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: matte black sports car with kawaii style design, c...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, matte black sports car with kawaii style design, cherry blossom avenue, with holographic panels, energetic racing scene, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 5/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: rainbow holographic muscle car with manga style de...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, rainbow holographic muscle car with manga style design, anime school courtyard, with holographic panels, bright and cheerful, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 6/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: high-speed motion blur mecha anime style compact c...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, high-speed motion blur mecha anime style compact car, mountain pass background, with flame decals, hot pink accents, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 7/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: neon blue muscle car with shounen style design, be...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, neon blue muscle car with shounen style design, beach sunset, with flame decals, mysterious night scene, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 8/8
+🎯 Usando configuración probada que funciona
+🎨 Generando: magical girl style, compact car with anime girl li...
+🔥 PROMPT COMPLETO: car, automobile, vehicle, anime style car, magical girl style, compact car with anime girl livery, silver metallic colors, festival fireworks background, energetic racing scene, car illustration, automotive design, detailed car, sports car, racing car, car body, wheels, car interior visible
+❌ NEGATIVE PROMPT: no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people
+   📐 Configuración: 512x512, 25 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+✅ Pack completado: 8/8 imágenes
+📁 Pack guardado en carpeta: packs\Anime_Cars_Pack_10_20250809
+ℹ️  Sin archivo ZIP - usando solo carpeta con imágenes
+🖼️ Creando preview con watermark...
+✅ Preview creado: previews\Anime_Cars_Pack_10_20250809_preview.png
+✅ Preview creado: Anime_Cars_Pack_10_20250809_preview.png
+ℹ️  Subida a PixelDrain omitida - sin archivo ZIP
+🛒 Preparando información para Gumroad...
+
+📋 Revisando productos existentes en Gumroad:
+✅ Token válido - Usuario: Jaime López
+📋 Productos existentes en Gumroad: 4
+   1. Anime Cars Pack #01 - 8 High Quality Images - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/mkpws
+   2. Anime Cars Pack #01 - 8 High Quality Images - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/ufxddc
+   3. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/nyfpb
+   4. Anime_Cars_Pack_01_20250803 - ⏸️ Draft
+      💰 $5.00 - URL: https://lopezian3.gumroad.com/l/yqcfy
+ℹ️  Subida a Gumroad omitida - funcionaba con archivos ZIP
+❌ Error preparando información para Gumroad
+⏳ Pausa de 15 segundos...
+
+============================================================
+🎉 PROCESO COMPLETADO
+✅ Packs exitosos: 0/10
+============================================================
+📂 Archivos generados:
+   • Directorio de trabajo: C:\Users\Jaume\Desktop\project\prompt
+   • Imágenes sin comprimir: packs/
+   • Archivos ZIP: packs_zip/
+   • Prompts del día: prompts.txt
+   • Respaldo de prompts: prompt_backups/
+   • Previews con watermark: previews/
+   • Log de subidas: upload_log.txt
+   • Log de ventas: sales_log.txt
+   • Log de ejecución: ✅ Activado
+============================================================
+🔮 Prompts automáticos:
+   • Se regeneran automáticamente cada día
+   • Basados en la fecha para consistencia
+   • 58 prompts únicos por día
+============================================================
+💰 Información de ventas:
+   • Plataforma: Gumroad (subida manual requerida)
+   • Precio base: €5.00 EUR
+   • Información de productos guardada en: gumroad_manual_upload.txt
+   • URL para crear productos: https://gumroad.com/products/new
+   • Auto-publicación: ❌ Manual (API cambió)
+   • Pay-what-you-want: ✅ Activado
+   • Precio mínimo: €3.00 EUR
+📄 Resumen del marketplace creado: marketplace_summary.html
+   • Resumen HTML: marketplace_summary.html
+============================================================
+🔔 Reproduciendo sonido de advertencia...
+============================================================
+🚗 GENERADOR DE ANIME CARS - INICIANDO
+============================================================
+📅 Fecha: 2025-08-09 17:13:28
+📂 Trabajando en: C:\Users\Jaume\Desktop\project\prompt
+📝 Sistema de logging activado
+🔄 Verificando conexión con Stable Diffusion API...
+✅ API de Stable Diffusion disponible
+🔍 Verificando modelos disponibles...
+✅ 1 modelo(s) encontrado(s):
+   - revAnimated_v2Rebirth.safetensors [8463ca6405]
+🎉 WebUI completamente configurado y listo
+
+🛒 Verificando configuración de Gumroad...
+📋 Configuración de Gumroad encontrada
+✅ Configuración de Gumroad cargada correctamente
+✅ Token válido - Usuario: Jaime López
+✅ Gumroad configurado correctamente
+
+🏥 Verificando salud del WebUI antes de generar...
+🏥 Verificando salud del WebUI...
+🔍 Obteniendo información del WebUI...
+📋 Samplers disponibles: 20
+   Primer sampler: DPM++ 2M
+🎯 Modelo actual: revAnimated_v2Rebirth.safetensors [8463ca6405]
+🔧 Scripts disponibles: 8
+💾 Memoria: {'ram': {'free': 32497475583.999996, 'used': 1631842304, 'total': 34129317887.999996}, 'cuda': {'system': {'free': 5062524928, 'used': 3526754304, 'total': 8589279232}, 'active': {'current': 2181277184, 'peak': 4182322176}, 'allocated': {'current': 2181277184, 'peak': 4182322176}, 'reserved': {'current': 2445279232, 'peak': 4385144832}, 'inactive': {'current': 264002048, 'peak': 272978944}, 'events': {'retries': 0, 'oom': 0}}}
+✅ Configuración del WebUI accesible
+🧪 Probando diferentes configuraciones...
+🧪 Probando: Mínimo absoluto
+❌ Mínimo absoluto - Error 500
+🧪 Probando: Básico simple
+❌ Básico simple - Error 500
+🧪 Probando: Estándar reducido
+❌ Estándar reducido - Error 500
+❌ Ninguna configuración funciona
+❌ Ninguna configuración funciona - iniciando recuperación de emergencia
+🚨 MODO DE RECUPERACIÓN DE EMERGENCIA
+==================================================
+1️⃣ Intentando recargar modelo actual...
+🔄 Intentando recargar el modelo actual...
+📋 Modelo actual: revAnimated_v2Rebirth.safetensors [8463ca6405]
+✅ Modelo recargado exitosamente
+2️⃣ Probando modelos alternativos...
+🔍 Buscando modelos alternativos...
+📋 1 modelo(s) disponible(s)
+🧪 Probando modelo: revAnimated_v2Rebirth.safetensors [8463ca6405]
+❌ No se pudo cambiar a revAnimated_v2Rebirth.safetensors [8463ca6405]
+❌ Ningún modelo funciona
+3️⃣ Requiere intervención manual:
+   💡 ACCIONES RECOMENDADAS:
+   1. 🛑 Cerrar WebUI (Ctrl+C en su consola)
+   2. 🔄 Reiniciar webui-user.bat
+   3. ⏳ Esperar hasta ver 'Running on local URL'
+   4. 🚀 Ejecutar este script nuevamente
+
+   🔍 SI EL PROBLEMA PERSISTE:
+   • Revisar logs detallados en la consola del WebUI
+   • Verificar que el modelo no esté corrupto
+   • Considerar usar un modelo diferente
+   • Verificar configuración de CUDA/GPU
+❌ Problema crítico del WebUI - requiere intervención manual
+⚠️ WebUI tiene problemas - intentando con parámetros reducidos
+💡 Recomendaciones:
+   1. Verifica la consola del WebUI para errores específicos
+   2. Considera reiniciar el WebUI
+   3. Verifica que tienes suficiente VRAM/RAM libre
+
+¿Continuar con parámetros reducidos? (s/n): ✅ Cargados 58 prompts del día actual desde prompts.txt
+
+🛒 Configurando Gumroad para venta automática...
+📋 Configuración de Gumroad encontrada
+✅ Configuración de Gumroad cargada correctamente
+
+🎯 Configuración:
+   - Packs a generar: 10
+   - Imágenes por pack: 8
+   - Prompts disponibles: 58
+   - Prompts únicos generados para: 2025-08-09
+   - Regeneración automática: ✅ Diaria
+   - WebUI Auto-start: ✅ Activado
+   - WebUI Path: F:\StableDiffusion\stable-diffusion-webui\webui-user.bat
+   - Venta en Gumroad: ✅ Habilitada
+   - Crear previews: ✅ Sí
+   - Precio base: €5.00 eur
+   - Auto-publicar: ❌ No
+
+📦 PACK 1/10
+----------------------------------------
+📦 Creando Anime_Cars_Pack_01_20250809...
+🔄 Imagen 1/8
+🎨 Generando: slice of life anime racing car, with kawaii sticke...
+🔥 PROMPT COMPLETO: realistic anime style car, detailed automotive design, photorealistic car, slice of life anime racing car, with kawaii stickers, autumn forest road, sunset orange lighting, soft pastel lighting, high detail car body, realistic car proportions, professional car photography style, detailed car interior, realistic wheels and tires, automotive artwork, car illustration, detailed metallic paint, realistic car lighting, high quality car render
+❌ NEGATIVE PROMPT: toy car, plastic toy, miniature car, toy-like, childish, cartoon style, simple car, low detail, flat colors, no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people, toy, plastic, miniature
+   📐 Configuración: 2048x2048, 25 pasos, CFG 7.5
+❌ Error interno del servidor (500)
+   Detalle del error: {'error': 'RuntimeError', 'detail': '', 'body': '', 'errors': 'Not enough memory, use lower resolution (max approx. 1600x1600). Need: 6.0GB free, Have:4.2GB free'}
+💡 Esto puede indicar:
+   - Problema con el modelo cargado
+   - Memoria insuficiente (VRAM/RAM)
+   - Parámetros incompatibles
+   - Modelo corrupto o configuración incorrecta
+❌ Falló imagen 1
+🔄 Imagen 2/8
+🎨 Generando: dynamic action pose shoujo style sports car, autum...
+🔥 PROMPT COMPLETO: realistic anime style car, detailed automotive design, photorealistic car, dynamic action pose shoujo style sports car, autumn forest road background, with cute mascot decorations, neon blue accents, high detail car body, realistic car proportions, professional car photography style, detailed car interior, realistic wheels and tires, automotive artwork, car illustration, detailed metallic paint, realistic car lighting, high quality car render
+❌ NEGATIVE PROMPT: toy car, plastic toy, miniature car, toy-like, childish, cartoon style, simple car, low detail, flat colors, no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people, toy, plastic, miniature
+   📐 Configuración: 2048x2048, 25 pasos, CFG 7.5
+❌ Error interno del servidor (500)
+   Detalle del error: {'error': 'RuntimeError', 'detail': '', 'body': '', 'errors': 'Not enough memory, use lower resolution (max approx. 1536x1536). Need: 6.0GB free, Have:3.5GB free'}
+💡 Esto puede indicar:
+   - Problema con el modelo cargado
+   - Memoria insuficiente (VRAM/RAM)
+   - Parámetros incompatibles
+   - Modelo corrupto o configuración incorrecta
+❌ Falló imagen 2
+🔄 Imagen 3/8
+🎨 Generando: racing car in mecha anime style, traditional Japan...
+🔥 PROMPT COMPLETO: realistic anime style car, detailed automotive design, photorealistic car, racing car in mecha anime style, traditional Japanese village, with spoiler wing, vibrant colors, hot pink theme, high detail car body, realistic car proportions, professional car photography style, detailed car interior, realistic wheels and tires, automotive artwork, car illustration, detailed metallic paint, realistic car lighting, high quality car render
+❌ NEGATIVE PROMPT: toy car, plastic toy, miniature car, toy-like, childish, cartoon style, simple car, low detail, flat colors, no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people, toy, plastic, miniature
+   📐 Configuración: 2048x2048, 25 pasos, CFG 7.5
+❌ Error interno del servidor (500)
+   Detalle del error: {'error': 'RuntimeError', 'detail': '', 'body': '', 'errors': 'Not enough memory, use lower resolution (max approx. 1472x1472). Need: 6.0GB free, Have:2.8GB free'}
+💡 Esto puede indicar:
+   - Problema con el modelo cargado
+   - Memoria insuficiente (VRAM/RAM)
+   - Parámetros incompatibles
+   - Modelo corrupto o configuración incorrecta
+❌ Falló imagen 3
+🔄 Imagen 4/8
+🎨 Generando: matte black sports car with kawaii style design, c...
+🔥 PROMPT COMPLETO: realistic anime style car, detailed automotive design, photorealistic car, matte black sports car with kawaii style design, cherry blossom avenue, with holographic panels, energetic racing scene, high detail car body, realistic car proportions, professional car photography style, detailed car interior, realistic wheels and tires, automotive artwork, car illustration, detailed metallic paint, realistic car lighting, high quality car render
+❌ NEGATIVE PROMPT: toy car, plastic toy, miniature car, toy-like, childish, cartoon style, simple car, low detail, flat colors, no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people, toy, plastic, miniature
+   📐 Configuración: 2048x2048, 25 pasos, CFG 7.5
+❌ Error interno del servidor (500)
+   Detalle del error: {'error': 'RuntimeError', 'detail': '', 'body': '', 'errors': 'Not enough memory, use lower resolution (max approx. 1344x1344). Need: 6.0GB free, Have:2.1GB free'}
+💡 Esto puede indicar:
+   - Problema con el modelo cargado
+   - Memoria insuficiente (VRAM/RAM)
+   - Parámetros incompatibles
+   - Modelo corrupto o configuración incorrecta
+❌ Falló imagen 4
+🔄 Imagen 5/8
+🎨 Generando: rainbow holographic muscle car with manga style de...
+🔥 PROMPT COMPLETO: realistic anime style car, detailed automotive design, photorealistic car, rainbow holographic muscle car with manga style design, anime school courtyard, with holographic panels, bright and cheerful, high detail car body, realistic car proportions, professional car photography style, detailed car interior, realistic wheels and tires, automotive artwork, car illustration, detailed metallic paint, realistic car lighting, high quality car render
+❌ NEGATIVE PROMPT: toy car, plastic toy, miniature car, toy-like, childish, cartoon style, simple car, low detail, flat colors, no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people, toy, plastic, miniature
+   📐 Configuración: 2048x2048, 25 pasos, CFG 7.5
+❌ Error interno del servidor (500)
+   Detalle del error: {'error': 'RuntimeError', 'detail': '', 'body': '', 'errors': 'Not enough memory, use lower resolution (max approx. 1216x1216). Need: 6.0GB free, Have:1.4GB free'}
+💡 Esto puede indicar:
+   - Problema con el modelo cargado
+   - Memoria insuficiente (VRAM/RAM)
+   - Parámetros incompatibles
+   - Modelo corrupto o configuración incorrecta
+❌ Falló imagen 5
+🔄 Imagen 6/8
+🎨 Generando: high-speed motion blur mecha anime style compact c...
+🔥 PROMPT COMPLETO: realistic anime style car, detailed automotive design, photorealistic car, high-speed motion blur mecha anime style compact car, mountain pass background, with flame decals, hot pink accents, high detail car body, realistic car proportions, professional car photography style, detailed car interior, realistic wheels and tires, automotive artwork, car illustration, detailed metallic paint, realistic car lighting, high quality car render
+❌ NEGATIVE PROMPT: toy car, plastic toy, miniature car, toy-like, childish, cartoon style, simple car, low detail, flat colors, no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people, toy, plastic, miniature
+   📐 Configuración: 2048x2048, 25 pasos, CFG 7.5
+❌ Error interno del servidor (500)
+   Detalle del error: {'error': 'RuntimeError', 'detail': '', 'body': '', 'errors': 'Not enough memory, use lower resolution (max approx. 1024x1024). Need: 6.0GB free, Have:0.7GB free'}
+💡 Esto puede indicar:
+   - Problema con el modelo cargado
+   - Memoria insuficiente (VRAM/RAM)
+   - Parámetros incompatibles
+   - Modelo corrupto o configuración incorrecta
+❌ Falló imagen 6
+🔄 Imagen 7/8
+🎨 Generando: neon blue muscle car with shounen style design, be...
+🔥 PROMPT COMPLETO: realistic anime style car, detailed automotive design, photorealistic car, neon blue muscle car with shounen style design, beach sunset, with flame decals, mysterious night scene, high detail car body, realistic car proportions, professional car photography style, detailed car interior, realistic wheels and tires, automotive artwork, car illustration, detailed metallic paint, realistic car lighting, high quality car render
+❌ NEGATIVE PROMPT: toy car, plastic toy, miniature car, toy-like, childish, cartoon style, simple car, low detail, flat colors, no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people, toy, plastic, miniature
+   📐 Configuración: 2048x2048, 25 pasos, CFG 7.5
+============================================================
+🚗 GENERADOR DE ANIME CARS - INICIANDO
+============================================================
+📅 Fecha: 2025-08-09 17:15:12
+📂 Trabajando en: C:\Users\Jaume\Desktop\project\prompt
+📝 Sistema de logging activado
+🔄 Verificando conexión con Stable Diffusion API...
+✅ API de Stable Diffusion disponible
+🔍 Verificando modelos disponibles...
+✅ 1 modelo(s) encontrado(s):
+   - revAnimated_v2Rebirth.safetensors [8463ca6405]
+🎉 WebUI completamente configurado y listo
+
+🛒 Verificando configuración de Gumroad...
+📋 Configuración de Gumroad encontrada
+✅ Configuración de Gumroad cargada correctamente
+✅ Token válido - Usuario: Jaime López
+✅ Gumroad configurado correctamente
+
+🏥 Verificando salud del WebUI antes de generar...
+🏥 Verificando salud del WebUI...
+🔍 Obteniendo información del WebUI...
+📋 Samplers disponibles: 20
+   Primer sampler: DPM++ 2M
+🎯 Modelo actual: revAnimated_v2Rebirth.safetensors [8463ca6405]
+🔧 Scripts disponibles: 8
+💾 Memoria: {'ram': {'free': 30569332736.000004, 'used': 3559985152, 'total': 34129317888.000004}, 'cuda': {'system': {'free': 0, 'used': 8589279232, 'total': 8589279232}, 'active': {'current': 3094851072, 'peak': 6944558592}, 'allocated': {'current': 3094851072, 'peak': 6944558592}, 'reserved': {'current': 9428795392, 'peak': 9428795392}, 'inactive': {'current': 323506688, 'peak': 1225260032}, 'events': {'retries': 0, 'oom': 0}}}
+✅ Configuración del WebUI accesible
+🧪 Probando diferentes configuraciones...
+🧪 Probando: Mínimo absoluto
+❌ Mínimo absoluto - Excepción: HTTPConnectionPool(host='127.0.0.1', port=7860): Read timed out. (read timeout=30)
+🧪 Probando: Básico simple
+❌ Básico simple - Excepción: HTTPConnectionPool(host='127.0.0.1', port=7860): Read timed out. (read timeout=30)
+🧪 Probando: Estándar reducido
+❌ Estándar reducido - Excepción: HTTPConnectionPool(host='127.0.0.1', port=7860): Read timed out. (read timeout=30)
+❌ Ninguna configuración funciona
+❌ Ninguna configuración funciona - iniciando recuperación de emergencia
+🚨 MODO DE RECUPERACIÓN DE EMERGENCIA
+==================================================
+1️⃣ Intentando recargar modelo actual...
+🔄 Intentando recargar el modelo actual...
+📋 Modelo actual: revAnimated_v2Rebirth.safetensors [8463ca6405]
+✅ Modelo recargado exitosamente
+2️⃣ Probando modelos alternativos...============================================================
+🚗 GENERADOR DE ANIME CARS - INICIANDO
+============================================================
+📅 Fecha: 2025-08-09 17:18:09
+📂 Trabajando en: C:\Users\Jaume\Desktop\project\prompt
+📝 Sistema de logging activado
+🔄 Verificando conexión con Stable Diffusion API...
+✅ API de Stable Diffusion disponible
+🔍 Verificando modelos disponibles...
+✅ 1 modelo(s) encontrado(s):
+   - revAnimated_v2Rebirth.safetensors [8463ca6405]
+🎉 WebUI completamente configurado y listo
+
+🛒 Verificando configuración de Gumroad...
+📋 Configuración de Gumroad encontrada
+✅ Configuración de Gumroad cargada correctamente
+✅ Token válido - Usuario: Jaime López
+✅ Gumroad configurado correctamente
+
+🏥 Verificando salud del WebUI antes de generar...
+🏥 Verificando salud del WebUI...
+🔍 Obteniendo información del WebUI...
+📋 Samplers disponibles: 20
+   Primer sampler: DPM++ 2M
+🎯 Modelo actual: revAnimated_v2Rebirth.safetensors [8463ca6405]
+🔧 Scripts disponibles: 8
+💾 Memoria: {'ram': {'free': 30485348352.0, 'used': 3643969536, 'total': 34129317888.0}, 'cuda': {'system': {'free': 0, 'used': 8589279232, 'total': 8589279232}, 'active': {'current': 3084018688, 'peak': 6944558592}, 'allocated': {'current': 3084018688, 'peak': 6944558592}, 'reserved': {'current': 9428795392, 'peak': 9428795392}, 'inactive': {'current': 334339072, 'peak': 1286729728}, 'events': {'retries': 0, 'oom': 0}}}
+✅ Configuración del WebUI accesible
+🧪 Probando diferentes configuraciones...
+🧪 Probando: Mínimo absoluto
+❌ Mínimo absoluto - Excepción: HTTPConnectionPool(host='127.0.0.1', port=7860): Read timed out. (read timeout=30)============================================================
+🚗 GENERADOR DE ANIME CARS - INICIANDO
+============================================================
+📅 Fecha: 2025-08-09 17:23:53
+📂 Trabajando en: C:\Users\Jaume\Desktop\project\prompt
+📝 Sistema de logging activado
+🔄 Verificando conexión con Stable Diffusion API...
+✅ API de Stable Diffusion disponible
+🔍 Verificando modelos disponibles...
+✅ 1 modelo(s) encontrado(s):
+   - revAnimated_v2Rebirth.safetensors [8463ca6405]
+🎉 WebUI completamente configurado y listo
+
+🛒 Verificando configuración de Gumroad...
+📋 Configuración de Gumroad encontrada
+✅ Configuración de Gumroad cargada correctamente
+✅ Token válido - Usuario: Jaime López
+✅ Gumroad configurado correctamente
+
+🏥 Verificando salud del WebUI antes de generar...
+🏥 Verificando salud del WebUI...
+🔍 Obteniendo información del WebUI...
+📋 Samplers disponibles: 20
+   Primer sampler: DPM++ 2M
+🎯 Modelo actual: revAnimated_v2Rebirth.safetensors [8463ca6405]
+🔧 Scripts disponibles: 8
+💾 Memoria: {'ram': {'free': 32492724224.0, 'used': 1636593664, 'total': 34129317888.0}, 'cuda': {'system': {'free': 5062524928, 'used': 3526754304, 'total': 8589279232}, 'active': {'current': 2181277184, 'peak': 4182322176}, 'allocated': {'current': 2181277184, 'peak': 4182322176}, 'reserved': {'current': 2445279232, 'peak': 4385144832}, 'inactive': {'current': 264002048, 'peak': 272978944}, 'events': {'retries': 0, 'oom': 0}}}
+✅ Configuración del WebUI accesible
+🧪 Probando diferentes configuraciones...
+🧪 Probando: Mínimo absoluto
+❌ Mínimo absoluto - Excepción: HTTPConnectionPool(host='127.0.0.1', port=7860): Read timed out. (read timeout=30)
+🧪 Probando: Básico simple
+❌ Básico simple - Excepción: HTTPConnectionPool(host='127.0.0.1', port=7860): Read timed out. (read timeout=30)
+🧪 Probando: Estándar reducido
+============================================================
+🚗 GENERADOR DE ANIME CARS - INICIANDO
+============================================================
+📅 Fecha: 2025-08-09 17:26:24
+📂 Trabajando en: C:\Users\Jaume\Desktop\project\prompt
+📝 Sistema de logging activado
+🔄 Verificando conexión con Stable Diffusion API...
+✅ API de Stable Diffusion disponible
+🔍 Verificando modelos disponibles...
+✅ 1 modelo(s) encontrado(s):
+   - revAnimated_v2Rebirth.safetensors [8463ca6405]
+🎉 WebUI completamente configurado y listo
+
+🛒 Verificando configuración de Gumroad...
+📋 Configuración de Gumroad encontrada
+✅ Configuración de Gumroad cargada correctamente
+✅ Token válido - Usuario: Jaime López
+✅ Gumroad configurado correctamente
+
+🏥 Verificando salud del WebUI antes de generar...
+🏥 Verificando salud del WebUI...
+🔍 Obteniendo información del WebUI...
+📋 Samplers disponibles: 20
+   Primer sampler: DPM++ 2M
+🎯 Modelo actual: revAnimated_v2Rebirth.safetensors [8463ca6405]
+🔧 Scripts disponibles: 8
+💾 Memoria: {'ram': {'free': 32498790400.0, 'used': 1630527488, 'total': 34129317888.0}, 'cuda': {'system': {'free': 5062524928, 'used': 3526754304, 'total': 8589279232}, 'active': {'current': 2181277184, 'peak': 4182322176}, 'allocated': {'current': 2181277184, 'peak': 4182322176}, 'reserved': {'current': 2445279232, 'peak': 4385144832}, 'inactive': {'current': 264002048, 'peak': 272978944}, 'events': {'retries': 0, 'oom': 0}}}
+✅ Configuración del WebUI accesible
+🧪 Probando diferentes configuraciones...
+🧪 Probando: Mínimo absoluto
+❌ Mínimo absoluto - Excepción: HTTPConnectionPool(host='127.0.0.1', port=7860): Read timed out. (read timeout=30)
+🧪 Probando: Básico simple
+❌ Básico simple - Excepción: HTTPConnectionPool(host='127.0.0.1', port=7860): Read timed out. (read timeout=30)
+🧪 Probando: Estándar reducido
+❌ Estándar reducido - Excepción: HTTPConnectionPool(host='127.0.0.1', port=7860): Read timed out. (read timeout=30)
+❌ Ninguna configuración funciona
+❌ Ninguna configuración funciona - iniciando recuperación de emergencia
+🚨 MODO DE RECUPERACIÓN DE EMERGENCIA
+==================================================
+1️⃣ Intentando recargar modelo actual...
+🔄 Intentando recargar el modelo actual...
+📋 Modelo actual: revAnimated_v2Rebirth.safetensors [8463ca6405]
+✅ Modelo recargado exitosamente
+2️⃣ Probando modelos alternativos...
+🔍 Buscando modelos alternativos...
+📋 1 modelo(s) disponible(s)
+🧪 Probando modelo: revAnimated_v2Rebirth.safetensors [8463ca6405]
+❌ No se pudo cambiar a revAnimated_v2Rebirth.safetensors [8463ca6405]
+❌ Ningún modelo funciona
+3️⃣ Requiere intervención manual:
+   💡 ACCIONES RECOMENDADAS:
+   1. 🛑 Cerrar WebUI (Ctrl+C en su consola)
+   2. 🔄 Reiniciar webui-user.bat
+   3. ⏳ Esperar hasta ver 'Running on local URL'
+   4. 🚀 Ejecutar este script nuevamente
+
+   🔍 SI EL PROBLEMA PERSISTE:
+   • Revisar logs detallados en la consola del WebUI
+   • Verificar que el modelo no esté corrupto
+   • Considerar usar un modelo diferente
+   • Verificar configuración de CUDA/GPU
+❌ Problema crítico del WebUI - requiere intervención manual
+⚠️ WebUI tiene problemas - intentando con parámetros reducidos
+💡 Recomendaciones:
+   1. Verifica la consola del WebUI para errores específicos
+   2. Considera reiniciar el WebUI
+   3. Verifica que tienes suficiente VRAM/RAM libre
+
+¿Continuar con parámetros reducidos? (s/n): ❌ Cancelado por el usuario
+============================================================
+🚗 GENERADOR DE ANIME CARS - INICIANDO
+============================================================
+📅 Fecha: 2025-08-09 17:30:18
+📂 Trabajando en: C:\Users\Jaume\Desktop\project\prompt
+📝 Sistema de logging activado
+🔄 Verificando conexión con Stable Diffusion API...
+✅ API de Stable Diffusion disponible
+🔍 Verificando modelos disponibles...
+✅ 1 modelo(s) encontrado(s):
+   - revAnimated_v2Rebirth.safetensors [8463ca6405]
+🎉 WebUI completamente configurado y listo
+
+🛒 Verificando configuración de Gumroad...
+📋 Configuración de Gumroad encontrada
+✅ Configuración de Gumroad cargada correctamente
+✅ Token válido - Usuario: Jaime López
+✅ Gumroad configurado correctamente
+
+🏥 Verificando salud del WebUI antes de generar...
+🏥 Verificando salud del WebUI...
+🔍 Obteniendo información del WebUI...
+📋 Samplers disponibles: 20
+   Primer sampler: DPM++ 2M
+🎯 Modelo actual: revAnimated_v2Rebirth.safetensors [8463ca6405]
+🔧 Scripts disponibles: 8
+💾 Memoria: {'ram': {'free': 31135469568.0, 'used': 2993848320, 'total': 34129317888.0}, 'cuda': {'system': {'free': 0, 'used': 8589279232, 'total': 8589279232}, 'active': {'current': 2202595840, 'peak': 5760634880}, 'allocated': {'current': 2202595840, 'peak': 5760634880}, 'reserved': {'current': 8428453888, 'peak': 8428453888}, 'inactive': {'current': 242683392, 'peak': 1824763904}, 'events': {'retries': 0, 'oom': 0}}}
+✅ Configuración del WebUI accesible
+🧪 Probando diferentes configuraciones...
+🧪 Probando: Mínimo absoluto
+============================================================
+🚗 GENERADOR DE ANIME CARS - INICIANDO
+============================================================
+📅 Fecha: 2025-08-09 17:31:01
+📂 Trabajando en: C:\Users\Jaume\Desktop\project\prompt
+📝 Sistema de logging activado
+🔄 Verificando conexión con Stable Diffusion API...
+❌ No se puede conectar a la API de Stable Diffusion
+🚀 Intentando iniciar WebUI automáticamente...
+🔍 Verificando estado de Stable Diffusion WebUI...
+⚠️ WebUI no está ejecutándose, iniciando automáticamente...
+✅ WebUI encontrado en: F:\StableDiffusion\stable-diffusion-webui\webui-user.bat
+🚀 Iniciando Stable Diffusion WebUI...
+📂 Ejecutando: F:\StableDiffusion\stable-diffusion-webui\webui-user.bat
+✅ WebUI iniciado (PID: 4960)
+⏳ Esperando que el servidor esté listo...
+⏳ Esperando inicialización completa del WebUI...
+💡 Esto puede tomar varios minutos si es la primera ejecución
+📱 Puedes revisar el progreso en la ventana de la consola del WebUI
+⏳ Esperando hasta 180 segundos para que WebUI esté listo...
+🔄 Verificando conexión... (180s restantes)
+✅ WebUI está listo y responde correctamente
+🎉 WebUI iniciado exitosamente y listo para usar
+✅ WebUI iniciado, verificando conexión nuevamente...
+✅ API de Stable Diffusion ahora disponible
+
+🛒 Verificando configuración de Gumroad...
+📋 Configuración de Gumroad encontrada
+✅ Configuración de Gumroad cargada correctamente
+✅ Token válido - Usuario: Jaime López
+✅ Gumroad configurado correctamente
+
+🏥 Verificando salud del WebUI antes de generar...
+🏥 Verificando salud del WebUI...
+🔍 Obteniendo información del WebUI...
+📋 Samplers disponibles: 20
+   Primer sampler: DPM++ 2M
+🎯 Modelo actual: revAnimated_v2Rebirth.safetensors [8463ca6405]
+🔧 Scripts disponibles: 8
+💾 Memoria: {'ram': {'free': 32800509951.999996, 'used': 1328807936, 'total': 34129317887.999996}, 'cuda': {'system': {'free': 2534649856, 'used': 6054629376, 'total': 8589279232}, 'active': {'current': 2181277184, 'peak': 4182322176}, 'allocated': {'current': 2181277184, 'peak': 4182322176}, 'reserved': {'current': 2445279232, 'peak': 4385144832}, 'inactive': {'current': 264002048, 'peak': 272978944}, 'events': {'retries': 0, 'oom': 0}}}
+✅ Configuración del WebUI accesible
+🧪 Probando diferentes configuraciones...
+🧪 Probando: Mínimo absoluto
+============================================================
+🚗 GENERADOR DE ANIME CARS - INICIANDO
+============================================================
+📅 Fecha: 2025-08-09 17:32:26
+📂 Trabajando en: C:\Users\Jaume\Desktop\project\prompt
+📝 Sistema de logging activado
+🔄 Verificando conexión con Stable Diffusion API...
+✅ API de Stable Diffusion disponible
+🔍 Verificando modelos disponibles...
+✅ 1 modelo(s) encontrado(s):
+   - revAnimated_v2Rebirth.safetensors [8463ca6405]
+🎉 WebUI completamente configurado y listo
+
+🛒 Verificando configuración de Gumroad...
+📋 Configuración de Gumroad encontrada
+✅ Configuración de Gumroad cargada correctamente
+✅ Token válido - Usuario: Jaime López
+✅ Gumroad configurado correctamente
+
+🏥 Verificando salud del WebUI antes de generar...
+🏥 Verificando salud del WebUI...
+🔍 Obteniendo información del WebUI...
+📋 Samplers disponibles: 20
+   Primer sampler: DPM++ 2M
+🎯 Modelo actual: revAnimated_v2Rebirth.safetensors [8463ca6405]
+🔧 Scripts disponibles: 8
+💾 Memoria: {'ram': {'free': 31806373888.0, 'used': 2322944000, 'total': 34129317888.0}, 'cuda': {'system': {'free': 5056233472, 'used': 3533045760, 'total': 8589279232}, 'active': {'current': 2182130688, 'peak': 4606296064}, 'allocated': {'current': 2182130688, 'peak': 4606296064}, 'reserved': {'current': 2445279232, 'peak': 6954156032}, 'inactive': {'current': 263148544, 'peak': 1738888192}, 'events': {'retries': 0, 'oom': 0}}}
+✅ Configuración del WebUI accesible
+🧪 Probando diferentes configuraciones...
+🧪 Probando: Mínimo absoluto
+❌ Mínimo absoluto - Excepción: HTTPConnectionPool(host='127.0.0.1', port=7860): Read timed out. (read timeout=30)
+🧪 Probando: Básico simple
+❌ Básico simple - Excepción: HTTPConnectionPool(host='127.0.0.1', port=7860): Read timed out. (read timeout=30)
+🧪 Probando: Estándar reducido
+❌ Estándar reducido - Excepción: HTTPConnectionPool(host='127.0.0.1', port=7860): Read timed out. (read timeout=30)
+❌ Ninguna configuración funciona
+❌ Ninguna configuración funciona - iniciando recuperación de emergencia
+🚨 MODO DE RECUPERACIÓN DE EMERGENCIA
+==================================================
+1️⃣ Intentando recargar modelo actual...
+🔄 Intentando recargar el modelo actual...
+📋 Modelo actual: revAnimated_v2Rebirth.safetensors [8463ca6405]
+✅ Modelo recargado exitosamente
+2️⃣ Probando modelos alternativos...
+🔍 Buscando modelos alternativos...
+📋 1 modelo(s) disponible(s)
+🧪 Probando modelo: revAnimated_v2Rebirth.safetensors [8463ca6405]
+❌ No se pudo cambiar a revAnimated_v2Rebirth.safetensors [8463ca6405]
+❌ Ningún modelo funciona
+3️⃣ Requiere intervención manual:
+   💡 ACCIONES RECOMENDADAS:
+   1. 🛑 Cerrar WebUI (Ctrl+C en su consola)
+   2. 🔄 Reiniciar webui-user.bat
+   3. ⏳ Esperar hasta ver 'Running on local URL'
+   4. 🚀 Ejecutar este script nuevamente
+
+   🔍 SI EL PROBLEMA PERSISTE:
+   • Revisar logs detallados en la consola del WebUI
+   • Verificar que el modelo no esté corrupto
+   • Considerar usar un modelo diferente
+   • Verificar configuración de CUDA/GPU
+❌ Problema crítico del WebUI - requiere intervención manual
+⚠️ WebUI tiene problemas - intentando con parámetros reducidos
+💡 Recomendaciones:
+   1. Verifica la consola del WebUI para errores específicos
+   2. Considera reiniciar el WebUI
+   3. Verifica que tienes suficiente VRAM/RAM libre
+
+¿Continuar con parámetros reducidos? (s/n): 🔄 Generando nuevos prompts para hoy...
+✅ Generados 58 prompts únicos para 2025-08-09
+📝 Guardados en prompts.txt
+💾 Respaldo guardado: prompt_backups\prompts_20250809.txt
+
+🛒 Configurando Gumroad para venta automática...
+📋 Configuración de Gumroad encontrada
+✅ Configuración de Gumroad cargada correctamente
+
+🎯 Configuración:
+   - Packs a generar: 10
+   - Imágenes por pack: 8
+   - Prompts disponibles: 58
+   - Prompts únicos generados para: 2025-08-09
+   - Regeneración automática: ✅ Diaria
+   - WebUI Auto-start: ✅ Activado
+   - WebUI Path: F:\StableDiffusion\stable-diffusion-webui\webui-user.bat
+   - Venta en Gumroad: ✅ Habilitada
+   - Crear previews: ✅ Sí
+   - Precio base: €5.00 eur
+   - Auto-publicar: ❌ No
+
+📦 PACK 1/10
+----------------------------------------
+📦 Creando Anime_Cars_Pack_01_20250809...
+🔄 Imagen 1/8
+🎨 Generando: slice of life anime racing car, with kawaii sticke...
+🔥 PROMPT COMPLETO: realistic anime style car, detailed automotive design, photorealistic car, slice of life anime racing car, with kawaii stickers, autumn forest road, sunset orange lighting, soft pastel lighting, high detail car body, realistic car proportions, professional car photography style, detailed car interior, realistic wheels and tires, automotive artwork, car illustration, detailed metallic paint, realistic car lighting, high quality car render
+❌ NEGATIVE PROMPT: toy car, plastic toy, miniature car, toy-like, childish, cartoon style, simple car, low detail, flat colors, no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people, toy, plastic, miniature
+   📐 Configuración: 1152x1152, 22 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 2/8
+🎨 Generando: dynamic action pose shoujo style sports car, autum...
+🔥 PROMPT COMPLETO: realistic anime style car, detailed automotive design, photorealistic car, dynamic action pose shoujo style sports car, autumn forest road background, with cute mascot decorations, neon blue accents, high detail car body, realistic car proportions, professional car photography style, detailed car interior, realistic wheels and tires, automotive artwork, car illustration, detailed metallic paint, realistic car lighting, high quality car render
+❌ NEGATIVE PROMPT: toy car, plastic toy, miniature car, toy-like, childish, cartoon style, simple car, low detail, flat colors, no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people, toy, plastic, miniature
+   📐 Configuración: 1152x1152, 22 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 3/8
+🎨 Generando: racing car in mecha anime style, traditional Japan...
+🔥 PROMPT COMPLETO: realistic anime style car, detailed automotive design, photorealistic car, racing car in mecha anime style, traditional Japanese village, with spoiler wing, vibrant colors, hot pink theme, high detail car body, realistic car proportions, professional car photography style, detailed car interior, realistic wheels and tires, automotive artwork, car illustration, detailed metallic paint, realistic car lighting, high quality car render
+❌ NEGATIVE PROMPT: toy car, plastic toy, miniature car, toy-like, childish, cartoon style, simple car, low detail, flat colors, no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people, toy, plastic, miniature
+   📐 Configuración: 1152x1152, 22 pasos, CFG 7.5
+✅ Imagen generada exitosamente
+🔄 Imagen 4/8
+🎨 Generando: matte black sports car with kawaii style design, c...
+🔥 PROMPT COMPLETO: realistic anime style car, detailed automotive design, photorealistic car, matte black sports car with kawaii style design, cherry blossom avenue, with holographic panels, energetic racing scene, high detail car body, realistic car proportions, professional car photography style, detailed car interior, realistic wheels and tires, automotive artwork, car illustration, detailed metallic paint, realistic car lighting, high quality car render
+❌ NEGATIVE PROMPT: toy car, plastic toy, miniature car, toy-like, childish, cartoon style, simple car, low detail, flat colors, no car, no vehicle, no automobile, abstract art, abstract shapes, geometric patterns, landscape only, building only, architecture, person, human, face, body, animal, creature, food, plant, flower, sky only, clouds only, text, watermark, lowres, blurry, bad quality, portrait, character, anime character, girl, boy, woman, man, people, toy, plastic, miniature
+   📐 Configuración: 1152x1152, 22 pasos, CFG 7.5
+
+
+⚠️ Proceso interrumpido por el usuario
+============================================================
+🚗 GENERADOR DE ANIME CARS - INICIANDO
+============================================================
+📅 Fecha: 2025-08-09 17:45:01
+📂 Trabajando en: C:\Users\Jaume\Desktop\project\prompt
+📝 Sistema de logging activado
+🔄 Verificando conexión con Stable Diffusion API...
+✅ API de Stable Diffusion disponible
+🎉 WebUI completamente configurado y listo
+
+🛒 Verificando configuración de Gumroad...
+📋 Configuración de Gumroad encontrada
+✅ Configuración de Gumroad cargada correctamente
+✅ Token válido - Usuario: Jaime López
+✅ Gumroad configurado correctamente
+
+🏥 Verificando salud del WebUI antes de generar...
+🏥 Verificando salud del WebUI...
+🔍 Obteniendo información del WebUI...
+📋 Samplers disponibles: 20
+   Primer sampler: DPM++ 2M
+🎯 Modelo actual: revAnimated_v2Rebirth.safetensors [8463ca6405]
+🔧 Scripts disponibles: 8
+💾 Memoria: {'ram': {'free': 32499351552.0, 'used': 1629966336, 'total': 34129317888.0}, 'cuda': {'system': {'free': 5062524928, 'used': 3526754304, 'total': 8589279232}, 'active': {'current': 2181277184, 'peak': 4182322176}, 'allocated': {'current': 2181277184, 'peak': 4182322176}, 'reserved': {'current': 2445279232, 'peak': 4385144832}, 'inactive': {'current': 264002048, 'peak': 272978944}, 'events': {'retries': 0, 'oom': 0}}}
+✅ Configuración del WebUI accesible
+🧪 Probando diferentes configuraciones...
+🧪 Probando: Mínimo absoluto
+============================================================
+🚗 GENERADOR DE ANIME CARS - INICIANDO
+============================================================
+📅 Fecha: 2025-08-09 17:45:23
+📂 Trabajando en: C:\Users\Jaume\Desktop\project\prompt
+📝 Sistema de logging activado
+🔄 Verificando conexión con Stable Diffusion API...
+❌ No se puede conectar a la API de Stable Diffusion
+� Asegúrate de que WebUI esté ejecutándose en: http://127.0.0.1:7860
+🚀 Para iniciarlo manualmente ejecuta: webui-user.bat
+
+❌ No se puede continuar sin conexión a la API
+============================================================
+🚗 GENERADOR DE ANIME CARS - INICIANDO
+============================================================
+📅 Fecha: 2025-08-09 17:45:57
+📂 Trabajando en: C:\Users\Jaume\Desktop\project\prompt
+📝 Sistema de logging activado
+🔄 Verificando conexión con Stable Diffusion API...
+✅ API de Stable Diffusion disponible
+🎉 WebUI completamente configurado y listo
+
+🛒 Verificando configuración de Gumroad...
+📋 Configuración de Gumroad encontrada
+✅ Configuración de Gumroad cargada correctamente
+✅ Token válido - Usuario: Jaime López
+✅ Gumroad configurado correctamente
+
+🏥 Verificando salud del WebUI antes de generar...
+🏥 Verificando salud del WebUI...
+🔍 Obteniendo información del WebUI...
+📋 Samplers disponibles: 20
+   Primer sampler: DPM++ 2M
+🎯 Modelo actual: revAnimated_v2Rebirth.safetensors [8463ca6405]
+🔧 Scripts disponibles: 8
+💾 Memoria: {'ram': {'free': 32493219839.999996, 'used': 1636098048, 'total': 34129317887.999996}, 'cuda': {'system': {'free': 5062524928, 'used': 3526754304, 'total': 8589279232}, 'active': {'current': 2181277184, 'peak': 4182322176}, 'allocated': {'current': 2181277184, 'peak': 4182322176}, 'reserved': {'current': 2445279232, 'peak': 4385144832}, 'inactive': {'current': 264002048, 'peak': 272978944}, 'events': {'retries': 0, 'oom': 0}}}
+✅ Configuración del WebUI accesible
+🧪 Probando diferentes configuraciones...
+🧪 Probando: Mínimo absoluto
+❌ Mínimo absoluto - Excepción: HTTPConnectionPool(host='127.0.0.1', port=7860): Read timed out. (read timeout=30)
+🧪 Probando: Básico simple
+❌ Básico simple - Excepción: HTTPConnectionPool(host='127.0.0.1', port=7860): Read timed out. (read timeout=30)
+🧪 Probando: Estándar reducido
+❌ Estándar reducido - Excepción: HTTPConnectionPool(host='127.0.0.1', port=7860): Read timed out. (read timeout=30)
+❌ Ninguna configuración funciona
+❌ Ninguna configuración funciona - iniciando recuperación de emergencia
+🚨 MODO DE RECUPERACIÓN DE EMERGENCIA
+==================================================
+1️⃣ Intentando recargar modelo actual...
+🔄 Intentando recargar el modelo actual...
+📋 Modelo actual: revAnimated_v2Rebirth.safetensors [8463ca6405]
+✅ Modelo recargado exitosamente
+2️⃣ Probando modelos alternativos...
+🔍 Buscando modelos alternativos...
+📋 1 modelo(s) disponible(s)
+🧪 Probando modelo: revAnimated_v2Rebirth.safetensors [8463ca6405]
+❌ Error probando modelos: HTTPConnectionPool(host='127.0.0.1', port=7860): Read timed out. (read timeout=60)
+3️⃣ Requiere intervención manual:
+   💡 ACCIONES RECOMENDADAS:
+   1. 🛑 Cerrar WebUI (Ctrl+C en su consola)
+   2. 🔄 Reiniciar webui-user.bat
+   3. ⏳ Esperar hasta ver 'Running on local URL'
+   4. 🚀 Ejecutar este script nuevamente
+
+   🔍 SI EL PROBLEMA PERSISTE:
+   • Revisar logs detallados en la consola del WebUI
+   • Verificar que el modelo no esté corrupto
+   • Considerar usar un modelo diferente
+   • Verificar configuración de CUDA/GPU
+❌ Problema crítico del WebUI - requiere intervención manual
+⚠️ WebUI tiene problemas - intentando con parámetros reducidos
+💡 Recomendaciones:
+   1. Verifica la consola del WebUI para errores específicos
+   2. Considera reiniciar el WebUI
+   3. Verifica que tienes suficiente VRAM/RAM libre
+
+¿Continuar con parámetros reducidos? (s/n): 
